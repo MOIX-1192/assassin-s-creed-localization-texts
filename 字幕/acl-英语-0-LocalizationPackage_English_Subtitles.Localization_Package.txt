@@ -1,0 +1,4218 @@
+Id: [0x000565C0]
+--perfect for plantation work, Monsieur. Look at this one. Hardworking, strong, healthy too.
+
+Id: [0x000565C2]
+I told you to keep your place, Kongo!
+
+Id: [0x000565C4]
+As I was saying, Monsieur, this one is strong as an ox. It’s in good health, and whole not counting the missing toes...
+
+Id: [0x000565C6]
+[FR]Maman? [Mom?]
+
+Id: [0x000565C9]
+[FR]Maman! Attend! (Mom! Wait!)
+
+Id: [0x000565CB]
+[FR]Halte! (Halt!)
+
+Id: [0x000565D0]
+[FR]Maman![Mom!]
+
+Id: [0x000565D2]
+[FR]Pardon, Madame. (Excuse me, ma’am)
+
+Id: [0x000565D4]
+You there! Bantling! Pest! I’ll have you arrested!
+
+Id: [0x000565E2]
+Aveline, [sigh][FR]ma chérie (my dear), you were shouting again. Was it the nightmare?
+
+Id: [0x000565E4]
+[FR]Oui.(Yes.) Only a dream. I’m sorry to have woken you.
+
+Id: [0x000565E5]
+Shhh, [FR]ma cherie (my dear), shhh. Never apologize. A mother worries--even a stepmother.
+
+Id: [0x000565E7]
+Thank you, Madeleine.
+
+Id: [0x000565EA]
+[FR]Maman[Mom]... do you worry too? Did you forget me? Or are you gone?
+
+Id: [0x000565EC]
+In any case, the night has better uses than sleep.
+
+Id: [0x000565F8]
+We have uncovered news of a plantation from which slaves are vanishing. The owners reported their escape, but our network can find no trace of them.<CR>
+
+Id: [0x00056600]
+A delivery will arrive at the plantation--a perfect cover. Hide in a wagon, and follow the cart to discover the location without being seen.
+
+Id: [0x0005660E]
+Who are you? How’d you get past the guards? We have plenty of trouble here already. Don’t need no more.
+
+Id: [0x0005660F]
+I’m Aveline. A friend.
+
+Id: [0x00056611]
+Slaves have been reported escaped, but none has yet reached any safe house. My contacts fear the worst.
+
+Id: [0x00056612]
+If you’re a spy, Aveline, you won’t find no cause for persecution here. My brothers have vanished. Then my aunt. Today, my youngest sister, Thérèse. They ain’t escaped as you say. They’re taken.
+
+Id: [0x00056617]
+Besides, Thérèse would never survive on her own.
+
+Id: [0x00056618]
+I’ll find her.[a beat] If any have trodden through these fields, they must have left tracks...
+
+Id: [0x00056620]
+[whimpers.]
+
+Id: [0x00056622]
+Don’t be afraid, Thérèse. I’m a friend. Who did this? Your Master?
+
+Id: [0x00056623]
+[FR]Non (No)... the son...
+
+Id: [0x00056625]
+Oh! Please help.
+
+Id: [0x00056627]
+Be strong. I’ll get you to safety...
+
+Id: [0x00056629]
+Guards! Hurry! We’ve got rats in the barn!
+
+Id: [0x0005662A]
+You’ll pay for this.
+
+Id: [0x0005662B]
+[Something between a scream and a whimper.]
+
+Id: [0x0005662E]
+This nightmare! I can’t take no more!
+
+Id: [0x00056630]
+His terror is over, Thérèse. Stay with me. We must hurry.
+
+Id: [0x00056638]
+Aveline? My daughter, wandering alone at dawn? Where have you been?
+
+Id: [0x00056639]
+After the nightmare, I went to take air. Dear stepmother, I’m grown now. You needn’t worry for my safety.
+
+Id: [0x0005663A]
+You underestimate the dangers of the world--if not to your safety, then to your reputation. Why must you be so headstrong? I wish you would--
+
+Id: [0x0005663B]
+In truth, Madeleine, I’m in need of your assistance. I’m afraid it’s urgent.
+
+Id: [0x0005663C]
+What now?
+
+Id: [0x0005663D]
+While walking, I was startled by cries of distress. Following them, I discovered a woman--a slave, badly wounded.
+
+Id: [0x0005663E]
+Where is she? I will send help--
+
+Id: [0x0005663F]
+She awaits. In a wagon. Outside. In the street.
+
+Id: [0x00056640]
+Aveline!
+
+Id: [0x00056641]
+Don’t be cross! I knew you’d know the thing to do. I couldn’t risk leaving her to perish, or worse...
+
+Id: [0x00056642]
+Or worse? You have already sentenced her to persecution by your very impulsiveness!
+
+Id: [0x00056643]
+Very well. I will not turn my back now--not that you have left me much choice! I will see that she is treated... in utmost discretion.
+
+Id: [0x00056645]
+In the meantime, hurry to town and fetch her new traveling clothes. Go quickly. We have no time to lose.
+
+Id: [0x00056646]
+[big sigh of relief]Thank you, Madeleine!
+
+Id: [0x00056652]
+Aveline, late to lunch, and looking ashen again... I fear you are not resting enough.
+
+Id: [0x00056653]
+Oh Papa, I’ll take my rest when this life is exhausted.
+
+Id: [0x00056654]
+You will hasten that end at this rate! Ah,<br>I do fear you are more like your father than is fit for a lady--a chip of the same block.<br>In passing, Monsieur Blanc requests your assistance at the warehouse. I dare say he has work to offer.
+
+Id: [0x00056655]
+Is that all he has to offer? I should think for all his attention, he would request your hand--
+
+Id: [0x00056656]
+All the same, it’s the work that interests me.
+
+Id: [0x00056657]
+Philippe--
+
+Id: [0x00056658]
+Oh, dear me... by the turn of this conversation, it would appear I have lingered too long at this table. If you’ll excuse me...
+
+Id: [0x0005665A]
+Good day, Papa.
+
+Id: [0x0005665C]
+[Sigh of relief.]There. He is gone. I can tell you now, Aveline, I have taken care of... everything. Your "friend” will be safe. If you have any more... “womanly problems”, do not hesitate to see me.
+
+Id: [0x00056665]
+--second time this month! Customer relations are strained enough without shipments disappearing!
+
+Id: [0x00056666]
+Your er... frustration is understandable, Monsieur. In your position, I... I should demand a full investigation. Please, let me look into it. I... I will go talk to Monsieur de Saint Maxent at once.
+
+Id: [0x00056667]
+Most grateful, Monsieur Blanc. At least I know I can always rely on you.
+
+Id: [0x0005666D]
+My boy, the cargo was stolen from this very ship. I have no more means of retrieving it than you do!
+
+Id: [0x0005666E]
+Yes, Monsieur, that is indeed troubling, I er... well what would you suggest, then?
+
+Id: [0x0005666F]
+I know this much: the devil had the gall to impersonate my dress, and my signature! Can you imagine?
+
+Id: [0x00056670]
+Non, Monsieur... Imagination has never been my er... strong suit. If it’s not too much trouble, may I... uh, look at your books?
+
+Id: [0x00056671]
+My books? I’d interrogate the captain! If his crew takes bribes, I’d wager he’s no less corruptible!
+
+Id: [0x00056679]
+Are you the captain of this ship?
+
+Id: [0x0005667A]
+[SP]Sì.(Yes.)[with an exaggerated bow][SP] Capitán[Captain] Carlos Dominguez, at your service.
+
+Id: [0x0005667E]
+May... May we speak in private,[SP] Capitán[Captain]?
+
+Id: [0x0005667F]
+Who am I to refuse such a comely creature? Come.
+
+Id: [0x00056682]
+Would you be so kind as to tell me what happened with Monsieur de Saint Maxent’s shipment?
+
+Id: [0x00056683]
+Why would you want to know?[a beat] Bah! Don’t you worry, my little [SP]ángel[angel]. The cargo found its way to the intended recipient.
+
+Id: [0x00056684]
+Let me pour you a cup. I dare you to tell me this isn’t the best Madeira wine that ever graced your heavenly lips!
+
+Id: [0x00056685]
+If... if you insist,[SP] Capitán[Captain].
+
+Id: [0x00056686]
+I do!
+
+Id: [0x00056688]
+You will not find a better vintage in <br>all of the New World.
+
+Id: [0x00056689]
+I am intrigued. Truly.
+
+Id: [0x0005668B]
+[SP]Àngel[Angel]? [SP]Àngel[Angel], where have you gone?
+
+Id: [0x0005668D]
+[SP]¡Oh, Dios cruel! (Thou art cruel, oh lord!)
+
+Id: [0x00056690]
+They hid the goods in two warehouses.
+
+Id: [0x0005669A]
+I am terribly grateful for your assistance, Mademoiselle de Grandpré. But how did you ever... Oh, never mind. Just please, tell your father to expect a considerable discount for his trouble.
+
+Id: [0x0005669E]
+Should I even ask how you found the missing cargo before I could request your help?<br>Please come to your father’s warehouse. Or... are you on your way already?
+
+Id: [0x000566A2]
+You may, er... put your mind at ease, Monsieur . The cargo will be delivered on time.
+
+Id: [0x000566A3]
+I dare say thanks are owed to Saint Nicholas.
+
+Id: [0x000566A4]
+Or perhaps a... uh... guardian angel, Monsieur.
+
+Id: [0x000566A6]
+Ah! Aveline. I am sure it is not your old father’s company that draws you here. I will leave you both to your private business.
+
+Id: [0x000566A8]
+Aveline, the documents you found aboard the rat captain’s ship... I recognized a name--Rafael Joaquín de Ferrer--a known enemy. I don’t know what his business is here, but we can be assured it’s more than er... simple larceny.
+
+Id: [0x000566A9]
+How can I help?
+
+Id: [0x000566AA]
+One of Agaté’s “servant” contacts tells us that he will attend a uh... social soirée at the governor’s mansion this evening.
+
+Id: [0x000566AB]
+I’ll have my best dress ready. Or my worst![she laughs] Fear not, Gérald, I’ll uncover his true purpose.
+
+Id: [0x000566AC]
+In the meantime, may I suggest that you er... familiarize yourself with the governor’s mansion? Perhaps discover a... uh... discreet way to enter?
+
+Id: [0x000566AD]
+Don’t worry Gérald, I will prepare well.
+
+Id: [0x000566AF]
+One more thing. There is a small er...house for sale near the governor’s mansion. It would be ideal for a Dressing Chamber.[He hands her some money] If you wouldn’t mind er... buying it?
+
+Id: [0x000566B1]
+Your wish is my command, Monsieur Blanc.
+
+Id: [0x000566BC]
+Remember, we need these goods delivered to the south entrance, just after sunset. Here...[he hands the merchant a key] This will grant you access to the kitchen.
+
+Id: [0x000566CE]
+With the Spanish under our spell, the Company Man will at last have the power to fulfill our true purpose. And if you provide us the labor, we’ll ensure the errors of Santo Domingo are not repeated here.
+
+Id: [0x000566CF]
+I will do all I can to smooth the hand-over of the colony. And your mission will have all the workers it needs--provided you make good on your promise. Labor is in tight supply as it is, and, I must remain in power as [FR]gouverneur[Governor]. Were our arrangement ever detected...
+
+Id: [0x000566D0]
+My, my, Governor. I fear the air of conspiracy has gone to your head. We’ll make good on our promise, so long as your end of the bargain is kept.
+
+Id: [0x000566D1]
+Everything is under control. You can count on me.
+
+Id: [0x000566D2]
+[SP]Bueno (Good). Then I shall away to indulge in your delightful soirée. Tonight I drink to the death of the Brotherhood!
+
+Id: [0x000566D7]
+Why?
+
+Id: [0x000566D8]
+You would sacrifice the good of the colony to a Templar conspiracy, [FR]Gouverneur[Governor]. I should ask you why.
+
+Id: [0x000566D9]
+The Order... is... the... future. The... the Templars will keep our colony... French.
+
+Id: [0x000566DA]
+The Templars will keep the colony Templar. Why does de Ferrer want workers? Tell me his plans and redeem yourself.
+
+Id: [0x000566DB]
+I know nothing of his plans. I was to send him slaves and vagrants--the ones most likely to rise up against--
+
+Id: [0x000566DC]
+Against those who would oppose oppression and claim the life that is owed them?
+
+Id: [0x000566DE]
+Rest in peace, [FR]Gouverneur[Governor].
+
+Id: [0x000566E2]
+[FR]Le Gouverneur est mort! Aux armes! Aux armes! (The Governor is dead! At arms! At arms!)
+
+Id: [0x000566E6]
+[very short lusty chuckle][SP]Señorita. [Miss.]
+
+Id: [0x000566E7]
+[FR] Bonsoir (Good evening). I’m a friend of Captain Dominguez. Is he onboard?
+
+Id: [0x000566E8]
+At this hour![a beat] [SP]El Capitán[the Captain] is at the tavern, where else?
+
+Id: [0x000566E9]
+Thank you.
+
+Id: [0x000566EE]
+[SP]Capitán[Captain]. We meet again.
+
+Id: [0x000566F0]
+Do we? All... three... of you... look familiar.[laughs, burps] But you’re all welcome back to my cabin. I’ve manhood for--
+
+Id: [0x000566F1]
+I don’t think--
+
+Id: [0x000566F2]
+Or we can consort right here![he laughs]
+
+Id: [0x000566F3]
+What do you know about Rafael Joaquín de Ferrer?
+
+Id: [0x000566F4]
+I’m afraid he’s not invited!
+
+Id: [0x000566F5]
+What’s your business with him?
+
+Id: [0x000566F6]
+He pays for transport to and from New Orleans. That’s all I do--transport the things and get paid. Things, paid. Transport paid. Back and forth and forth and back...
+
+Id: [0x000566F7]
+What is he doing? Why New Orleans?
+
+Id: [0x000566F8]
+I do not know.[SP] Señor de Ferrer is a very secretive man.
+
+Id: [0x000566FA]
+Thank you for your time, [SP]Capitán[Captain].
+
+Id: [0x000566FD]
+Aveline, out and about as always.
+
+Id: [0x000566FE]
+But home to rest, now, Papa.
+
+Id: [0x000566FF]
+Monsieur Blanc tells me you do a great service to my business--to our business, for it will be your husband’s some day. [he smiles dotingly]
+
+Id: [0x00056700]
+Oh, Papa... You know I should sooner mind my own business than marry.
+
+Id: [0x00056701]
+As stubborn as your mother, Jeanne. If only she could see you now...
+
+Id: [0x00056702]
+But she can’t.
+
+Id: [0x00056703]
+No. But perhaps you are old enough now...
+
+Id: [0x00056705]
+It is not much. One page. But it is from her diary. You should have it.
+
+Id: [0x00056707]
+[FR]Maman... [Mom...]
+
+Id: [0x00056708]
+Thank you, Papa.
+
+Id: [0x00056710]
+My Student,The hornets’ nest grows. I retreat to safety, the better to observe and strike.<br>I require your assistance. Use your gifts to follow my trail. May the loas guide you swiftly.
+
+Id: [0x00056715]
+Agaté, you wrote of the enemy?
+
+Id: [0x00056716]
+Yes. Deep in the bayou, a dangerous imposter spreads real roots. He calls himself François Mackandal, my own mentor--the leader, the priest, the Brother, to whose cause I devoted my life. He was put to death by fire.[a beat; with regret] I failed to prevent it.<br>Who is this imposter, and what are his affiliations? This, you will need to uncover.<br>But first, preparations.
+
+Id: [0x0005671A]
+François Mackandal was an expert in poisons. This blowpipe was his.
+
+Id: [0x0005671C]
+A fine weapon.
+
+Id: [0x0005671F]
+Find me when you are practiced and ready. A Dressing Chamber is here, should you wish to change your guise.
+
+Id: [0x00056725]
+The false Mackandal gathers followers. They attempt to overtake smuggling operations on the bayou--to finance what, I cannot say.
+
+Id: [0x00056726]
+There is a smuggler--a woman named Élise Lafleur... She knows every bog and tangle of the swamp. Perhaps she could be persuaded to help?
+
+Id: [0x00056727]
+I’m sure I can motivate her.
+
+Id: [0x00056728]
+Good. When you get to Mackandal, use your darts to approach, but remember you will need to complete your mission using more direct means.
+
+Id: [0x0005672D]
+We offer two choices.
+
+Id: [0x0005672E]
+You give up the river...
+
+Id: [0x0005672F]
+Or we take the river.
+
+Id: [0x00056730]
+Or you suffer... before you die.
+
+Id: [0x00056731]
+Three choices, then.
+
+Id: [0x00056732]
+You dare threaten me? You bracket-faced parasites have no more claim here than dung beetles.
+
+Id: [0x00056733]
+You’d best heed the “lady”. We have you outnumbered.
+
+Id: [0x00056734]
+Look around, old man. Your hired hands will flee at the first sign of trouble.
+
+Id: [0x00056735]
+Aye, but the lady’s temper alone could take on an army, and the swamp is no friend of yours.
+
+Id: [0x00056739]
+What?!
+
+Id: [0x0005673A]
+Attack!
+
+Id: [0x0005673D]
+Who the hell are you?
+
+Id: [0x0005673E]
+A fine display of gratitude. I’m no enemy, if that’s what you fear.
+
+Id: [0x0005673F]
+I fear nothing.
+
+Id: [0x00056740]
+My name is Aveline. I seek the leader of these men. He calls himself François Mackandal.
+
+Id: [0x00056741]
+You seek him? To what end?
+
+Id: [0x00056742]
+A final one.
+
+Id: [0x00056743]
+Ah! Then you’re my kind of woman! Name’s Roussillon. My, er, partner in crime is Élise--[jokingly, whispering]though I’ve heard her called otherwise...
+
+Id: [0x00056744]
+Will you help me find their base? No one knows these waters as you do. In return, I’ll restore your control of this territory.
+
+Id: [0x00056745]
+I’ve built-- “we’ve” invested years of work in this camp. Why would we need your help?
+
+Id: [0x00056746]
+Four reasons right there!
+
+Id: [0x00056747]
+Would you not prefer to move your wares freely?
+
+Id: [0x00056748]
+It’s settled then. Élise will help you find the blighters.
+
+Id: [0x00056749]
+If you think there’s only one base, you really do need me. Those louts are spread out thin as swamp gas.
+
+Id: [0x0005674E]
+Did you bring a canoe or do you expect your gentle breeding to keep you from the alligators?<br>Best take one of mine, then, and learn to use it right quick.
+
+Id: [0x00056753]
+Smuggler’s such an ugly word. Even slavers are called merchants. Why can’t my title be "Queen of the Bog, Protector of Innocents, Paddling Instructor, and Champion of Trade?”
+
+Id: [0x00056754]
+Too long to fit on a wanted poster.[a beat] Tell me, when did your troubles with Mackandal’s men begin?
+
+Id: [0x00056755]
+‘Bout the same time the Spanish Governor arrived. Just a big ol’ coincidence, I’m sure.
+
+Id: [0x00056757]
+This is as far as the water will take us.
+
+Id: [0x0005675B]
+They’ve set up their base around a wrecked ship that ran aground not far from here.
+
+Id: [0x0005675D]
+The other base is a little further along. There!
+
+Id: [0x00056760]
+I’ll check out this base. You scout ahead.
+
+Id: [0x00056761]
+[FR]Oui, oui, mon capitaine. (Aye, aye, captain.)
+
+Id: [0x00056765]
+[short cry of surprise at something very dangerous]
+
+Id: [0x0005676A]
+Glad I didn’t put money on that fight.[she spits] Would’ve lost. And barely a scratch on you!
+
+Id: [0x0005676C]
+Now here’s a pretty prize: an alligator egg.
+
+Id: [0x0005676D]
+Takes one to know one.
+
+Id: [0x0005676E]
+[FR]Ouais(yep), that it does.
+
+Id: [0x00056772]
+Right then. If you don’t run the bastard through right here, I’ll meet you at the next base.
+
+Id: [0x00056777]
+My faithful Acolyte, the day of the sacred ceremony draws near. I am in want of nothing but more men to join our ranks. Gather the faithful and await my word.
+
+Id: [0x0005677D]
+Still in one piece, I see. What did you find?
+
+Id: [0x0005677E]
+A letter from the coward Mackandal. He’s preparing a ceremony--
+
+Id: [0x0005677F]
+Voodoo?
+
+Id: [0x00056780]
+Yes, but to what end?
+
+Id: [0x00056781]
+Power. What other end is there? Show ‘em you’ve got the spirits at your back--especially the mean ones, and people do almost anything you say. There’s your real magic.
+
+Id: [0x00056783]
+It’s that way-- well-hidden in the trees.
+
+Id: [0x00056785]
+Wait! I recognize those men. They’re escaped slaves. Hired from San Danje!
+
+Id: [0x00056786]
+The shanty town?
+
+Id: [0x00056788]
+[FR]Oui (Yes), though it barely deserves the name--a cramped, miserable place...
+
+Id: [0x00056789]
+The men I saw at your camp... They were from San Danje?
+
+Id: [0x0005678A]
+[laughing]Roussillon wasn’t too happy when I hired them, but he got used to the idea.[a beat] Please, you can’t hurt them.
+
+Id: [0x0005678B]
+It goes without saying.
+
+Id: [0x0005678C]
+Best of luck, then. Go. I’ll be at “the office” if you need me.
+
+Id: [0x00056792]
+My faithful Acolyte, preparations are complete. Our ceremony will take place on the Eve of Saint John. Assemble my followers.
+
+Id: [0x00056796]
+[FR]Et puis? (Well?)
+
+Id: [0x00056797]
+Where is Élise?
+
+Id: [0x00056798]
+My company doesn’t satisfy you?[clutching his heart] I am hurt![after a beat] Pray, tell me what you found, I’m as good a confidante as the “lady”, I swear.
+
+Id: [0x00056799]
+It’s not a confidante I need, but an informant. Mackandal is holding a ceremony on Saint John’s Eve, tonight, but I don’t know where.
+
+Id: [0x0005679B]
+I know who can help. And you can help me in return. There’s a houng--[unable to pronounce it] a... a witch doctor in San Danje--the eyes and ears of the bayou.
+
+Id: [0x0005679D]
+I sent Élise to him with supplies, but she forgot this.
+
+Id: [0x0005679F]
+So hard to find honest criminal help these days... Give him this. With his trust, the secrets of the bayou will be yours.
+
+Id: [0x000567A0]
+Thank you.
+
+Id: [0x000567A1]
+By the by, come back when you’re done. I have a job or two that could use a woman of your caliber.[a beat] And some work, as well! [he laughs][FR]Einh?(huh?)[more laughter]
+
+Id: [0x000567A7]
+Élise!
+
+Id: [0x000567A8]
+Aveline! Does Mackandal still live?
+
+Id: [0x000567A9]
+He’s holding a ceremony tonight...
+
+Id: [0x000567AB]
+Venerable one, I bring supplies from Roussillon.
+
+Id: [0x000567AD]
+Mmm. Thank you. This Mackandal is a dark influence over the people of San Danje. If you can stop him, I will help.
+
+Id: [0x000567AF]
+Yes... His shadow emanates from the shore of Lake Pontchartrain.<br>He has a poison in his possession from which you will not recover, if stung. I will give you the antidote, but it will not stop the poison, only limit its damage.<br>Time is short. You must take this now.
+
+Id: [0x000567B1]
+I’ve had worse... I think.[to the Houngan] Thank you.
+
+Id: [0x000567B3]
+We’ll strike tonight. I’ll disguise myself as a slave so that I'm invisible to Mackandal’s followers.
+
+Id: [0x000567B4]
+I’ll be ready when you are. "Saint John” won’t know what hit him!
+
+Id: [0x000567BC]
+How long have you been working with Roussillon?
+
+Id: [0x000567BD]
+Years.
+
+Id: [0x000567BE]
+Is he your... well--
+
+Id: [0x000567BF]
+God no! No, no. Don’t get me wrong, I’d pluck my eye out for him... But I wouldn’t bed the letch if he were the last man in [FR]Nouvelle France (New France).
+
+Id: [0x000567C0]
+How do you know him?
+
+Id: [0x000567C1]
+Touss--[coughing]Roussillon saved my life once, long ago. I figured I owed him, so I helped him expand his "business”. The Ol’ Devil showed me a few tricks too, taught me his trade, if you will.<br>‘Course, I do all the work!
+
+Id: [0x000567C5]
+Well, here it is, the Realm Of the Dead! Homey, ain’t it?
+
+Id: [0x000567C9]
+--if you make good on your word.
+
+Id: [0x000567CA]
+Fear not, [SP]señor. I was trained by--
+
+Id: [0x000567CB]
+I know only too well who your master was, Baptiste.[a beat] Just remember where your loyalties lie.
+
+Id: [0x000567CD]
+I shall not fail you.
+
+Id: [0x000567CE]
+See that you don’t.
+
+Id: [0x000567D0]
+My faithful Acolytes, stand ready! The time of our ritual is now!
+
+Id: [0x000567D5]
+I’ll approach from the far side and create a distraction. Wait for it before you move.
+
+Id: [0x000567D6]
+[FR]Oui, oui, mon capitaine. (Aye, aye, captain.)
+
+Id: [0x000567DE]
+Ah. Your blowpipe... A beautiful weapon. One of the finest I ever made. I remember the day that coward, Agaté, stole it. Fitting he should remain too spineless to face me. But I have captured his pawn. Now he will be forced from hiding!
+
+Id: [0x000567DF]
+How... do you know Agaté?
+
+Id: [0x000567E0]
+So he is here, as I suspected. Agaté was my disciple once. If not for that thieving woman--
+
+Id: [0x000567E1]
+Who are you really? The true Mackandal burned at the stake.
+
+Id: [0x000567E2]
+I see you know your history. Very well... François Mackandal was my mentor. And an Assassin. But he failed. She betrayed us and he died. I won’t make that mistake before I carry out his life’s destiny.
+
+Id: [0x000567E4]
+The poison fails?
+
+Id: [0x000567E7]
+Swift... Precise. My treacherous brother has trained her well. But she will not interfere with our plans.
+
+Id: [0x000567E9]
+Finish her!
+
+Id: [0x000567EC]
+Then I will take care of you myself. The ceremony will go on. You cannot stop it.
+
+Id: [0x000567EE]
+When I’m done with you, I will destroy your mentor.
+
+Id: [0x000567F2]
+By your hand, Agaté betrays me one final time.
+
+Id: [0x000567F4]
+The locket you wear--I know it well.[a beat] The first time Agaté betrayed me, it was for the woman, the thief... She wore one just like it.
+
+Id: [0x000567F5]
+Who was she? What was her name?
+
+Id: [0x00056801]
+--the nobles of New Orleans shall perish by poison, and the slaves shall be avenged. My mentor’s work will be complete.
+
+Id: [0x00056802]
+And control of the river will fall to those who know what to do with it.
+
+Id: [0x00056803]
+Then I will be inducted into the Templar Order.
+
+Id: [0x00056804]
+As agreed. If you make good on your word.
+
+Id: [0x00056805]
+Fear not, [SP]señor. I was trained by--
+
+Id: [0x00056806]
+I know only too well who your master was, Baptiste.[a beat] Just remember where your loyalties lie.
+
+Id: [0x00056808]
+I shall not fail you.
+
+Id: [0x00056809]
+See that you don’t.
+
+Id: [0x0005680B]
+My faithful Acolytes, stand ready! The time of our ritual is now!
+
+Id: [0x00056810]
+It is done. I must return to Agaté.
+
+Id: [0x00056811]
+And I, to that drunk I call a business partner. I am glad to have met you, Aveline.
+
+Id: [0x00056815]
+Agaté, I have done as you asked. The imposter is dead.<br>He was working with de Ferrer.
+
+Id: [0x00056816]
+What else have you learned?
+
+Id: [0x00056817]
+Only... that he would have forced you out of hiding.
+
+Id: [0x00056818]
+Let us be thankful it did not come to that--if it had, our Brotherhood... Well, let us not dwell. You have destroyed the hornet’s nest in the bayou. At least for now... De Ferrer will have his day.
+
+Id: [0x0005681F]
+Aveline! Agaté warned me of your flight to Mexico. Do you intend to abandon your business, and the slaves in New Orleans? What about your family?
+
+Id: [0x00056820]
+My father sends me to Cuba to find suppliers with his blessing. And you’re more than fit to run the business in my absence. I must follow our enemy.
+
+Id: [0x00056821]
+And when were you going to tell me?
+
+Id: [0x00056822]
+I couldn’t risk you trying to stop me.
+
+Id: [0x00056823]
+Is this all you see in me? Business? Orders? Aveline, I care for you!
+
+Id: [0x00056825]
+Gérald, don’t be angry. You know we cannot mix... feelings... with work. I had hoped to spare--
+
+Id: [0x00056826]
+Since I know I cannot stop you, is there any last assistance I can provide?
+
+Id: [0x00056827]
+I admit, my plan to board this ship is clumsy. 
+
+Id: [0x00056828]
+There’s a compound nearby, where slaves are held--slaves bound to Mexico. You can gain access to the ship by blending with them.
+
+Id: [0x00056829]
+I won’t be able to take my weapons.
+
+Id: [0x0005682A]
+How will you defend yourself?
+
+Id: [0x0005682C]
+Right. Silly question. I’ll hold them for you until your return.
+
+Id: [0x0005682F]
+Thank you, Gérald. You’re a true, true friend.
+
+Id: [0x0005683F]
+Welcome, friends, to a new life of freedom, productivity, and peace! Here you will find no shackles, no whips. You will build your own community, and by your labor, together we will prosper!
+
+Id: [0x00056846]
+Aveline! What a joy to see you here, and share the bounty of our life with a new sister! But why have you come? Were you not free already?
+
+Id: [0x00056847]
+When I... heard how wonderful this community is, I had to see for myself. Are the rumors true? Are you as happy as they say?
+
+Id: [0x00056848]
+Happier! Our homes are comfortable. Food is good and plentiful. It’s like Eden!
+
+Id: [0x00056849]
+Are you paid a good wage?
+
+Id: [0x0005684A]
+We are allowed to live here, and participate in the community, each of us helping in our own way. That’s all the wage we need.
+
+Id: [0x0005684B]
+So the community owns this land?
+
+Id: [0x0005684C]
+Some day we might, once we earn out our contracts. They say the land is valuable, so it may take a long time. It will be worth it.
+
+Id: [0x0005684D]
+And if you should wish to leave?
+
+Id: [0x0005684E]
+It doesn’t happen. No one would ever want that.
+
+Id: [0x0005684F]
+No one has ever left?
+
+Id: [0x00056850]
+Shh... You shouldn’t talk like that. No one here does. We’re so full of happiness, we have no need of unpleasant thoughts--or of those who would stir them.
+
+Id: [0x00056851]
+It really is so wonderful to see you again. Good day.
+
+Id: [0x00056852]
+It always is!
+
+Id: [0x00056854]
+Welcome!
+
+Id: [0x00056855]
+Thank you!
+
+Id: [0x00056856]
+And what is your skill? Cleaning? Sewing? Cooking, perhaps?
+
+Id: [0x00056857]
+Mmm... I prefer hunting.
+
+Id: [0x00056858]
+That’s... unusual. But you will find yourself in good company. Our dig site leader is also a woman. If you can get along with her, you’ll do well here. Of course, everyone does well here. Our strength is using your strength!
+
+Id: [0x00056859]
+Wonderful.
+
+Id: [0x0005685C]
+Pssst. Miss. Can I offer you my premium ale? Or perhaps some tobacco? Strictly on the quiet market?
+
+Id: [0x0005685D]
+No thank you.
+
+Id: [0x0005685E]
+Oh. Well do you have any to sell, then?
+
+Id: [0x0005685F]
+Sorry.
+
+Id: [0x00056860]
+Please forget we ever spoke.
+
+Id: [0x00056863]
+Eat, eat! There will be so much time for talking later!
+
+Id: [0x00056866]
+Come, join the dancing! This is a day for celebration!
+
+Id: [0x0005686A]
+[short "hmmm" sound]There’s no shortage of material here. Perhaps I can gather the tools to arm myself so I’m ready when the time comes.
+
+Id: [0x00056872]
+A little crude, but it’s better than nothing.
+
+Id: [0x00056876]
+Of course, you’re correct. The Company Man is already displeased.
+
+Id: [0x00056878]
+If we had more people--
+
+Id: [0x00056879]
+More people? We’ve already exhausted the local labor supply. I’ve brought workers from everywhere--as near as Cuba, and as far as New Orleans--and in total secrecy. Do you realize how complex and expensive that is?<br>Be patient. Vázquez will soon be in place in New Orleans. He will succeed where Baptiste failed.
+
+Id: [0x0005687C]
+Here’s the man I was mentioning earlier. What should we do with him?
+
+Id: [0x0005687D]
+Educate him on the error of his ways.
+
+Id: [0x0005687F]
+You didn’t really think we’d let you violate your contract and run off with a head full of secrets, did you?
+
+Id: [0x00056885]
+Thank you! Where on earth did you come from?
+
+Id: [0x00056886]
+More importantly, where will you go? To New Orleans? I can arrange for employment--
+
+Id: [0x00056887]
+Ha! For what? My people are the Fon. I will go back to Africa.
+
+Id: [0x00056889]
+Your locket... It’s very unusual. I’ve seen one before... I assumed it was one of a kind.
+
+Id: [0x0005688A]
+It is one of a kind. My mother made it with her own hands. You must be mistaken.
+
+Id: [0x0005688B]
+No... The woman who wore the locket was named Jeanne. She was one of the first workers to come here. I remember her fondly.
+
+Id: [0x0005688C]
+That was my mother’s name! Where is this woman? I must see her.
+
+Id: [0x0005688D]
+I don’t know. She lived in a private house at the south edge of the camp.
+
+Id: [0x0005688E]
+You should go. De Ferrer will be looking for you. Will you be alright on your own?
+
+Id: [0x0005688F]
+Yes. I will hide until the changing of the guard at sundown, and then make my escape again. This time, they won’t catch me.
+
+Id: [0x00056890]
+Good luck.
+
+Id: [0x0005689A]
+[bemused diabolical laugh]How wonderfully useful you are. You remove those who would supersede me in rank. You find pieces of the Prophecy Disk, saving me the effort... If you weren’t my enemy, I would take you for my friend! Our aims must not be so different for all the help you give me.
+
+Id: [0x000568A0]
+Aveline!
+
+Id: [0x000568A1]
+[FR]Maman? [Mom?]
+
+Id: [0x000568A2]
+It can’t be! I left you in Madeleine’s protection for your own safety! You and my heart! What cruel destiny brings you now... and carrying the blade of the enemy? Don’t tell me--
+
+Id: [0x000568A3]
+I thought you were dead...
+
+Id: [0x000568A4]
+Please understand: they would have killed me--taken my heart. I never wanted to leave you.
+
+Id: [0x000568A5]
+Is that it? Has Agaté sent you here to kill me? Please, tell me you do not hate me so much--I would not have left--
+
+Id: [0x000568A6]
+Kill you? No I--I came here on my own--
+
+Id: [0x000568A7]
+Aveline, the Disk can never fall into Agaté’s hands. If it did, everything I’ve been working to find and protect since leaving [FR]Nouvelle Orleans (New Orleans) would be destroyed!
+
+Id: [0x000568A8]
+How do you know him? And... Why are you so afraid?
+
+Id: [0x000568A9]
+Long ago--No! I’m sorry Aveline, I hope you can forgive me some day.
+
+Id: [0x000568AB]
+[FR]Maman! [Mom!]
+
+Id: [0x000568AF]
+I’m sorry I’m late to our meeting,[SP] Señor. I had to dispatch guards to hunt down another escapee.
+
+Id: [0x000568B0]
+Third one this week, is it not?
+
+Id: [0x000568B1]
+I’m having him held for you. I know you like to... deal... with these matters personally.
+
+Id: [0x000568B2]
+Always so considerate. I am rather in the mood for a hanging. Have you given any further thought to my suggestion?
+
+Id: [0x000568B3]
+Of doctoring the workers’ ale? Haven’t you had bad luck with poison before?
+
+Id: [0x000568B4]
+Perhaps you’re right. I don’t want a repeat of the Mackandal debacle.
+
+Id: [0x000568B5]
+Archaeology is a fine, gentle work. I’d prefer something that won’t impair the workers’ abilities. I suggest another festival. A suckling pig. Tell them they’re closer than ever to earning their land.
+
+Id: [0x000568B6]
+Of course, you’re correct. The Company Man is already displeased.
+
+Id: [0x000568BA]
+Although the reconstruction of our network has required an investment of several years, the help of our American friends means we can now reach further than before.
+
+Id: [0x000568C4]
+Connor? I’m  Aveline de Grandpré your... “brother” from New Orleans.
+
+Id: [0x000568D6]
+Unhand me!
+
+Id: [0x000568D7]
+One chance to keep your life: where is Davidson?
+
+Id: [0x000568D8]
+Who?
+
+Id: [0x000568DA]
+Come on! Time’s up!
+
+Id: [0x000568DB]
+He’s in the fort.
+
+Id: [0x000568DC]
+That was easy. Why is it you call yourselves loyalists again?
+
+Id: [0x000568DD]
+Easier to be loyal in the safety of the fort than out in the snow with a knife to your neck.
+
+Id: [0x000568DF]
+Run home. Now. And don’t let me see you again--you won’t be able to run then.
+
+Id: [0x000568E0]
+Y-yes ma’am.
+
+Id: [0x000568E5]
+We climb.
+
+Id: [0x000568ED]
+Can you find a way in? I will go around and divert attention.
+
+Id: [0x000568F3]
+What? George? Is it you?
+
+Id: [0x000568F5]
+Officer Davidson, if you would kindly pay me the respect my rank commands now.
+
+Id: [0x000568F6]
+Fighting for the British? And working for my enemy--who would enslave you? I’ll say something’s “rank”.
+
+Id: [0x000568F7]
+Ha! The loyalists have guaranteed my freedom. I will fight for it, and win it for myself.<CR>
+
+Id: [0x000568FA]
+[exasperated grunt of effort of throwing her weight against the door, and failing]
+
+Id: [0x00056906]
+Follow Davidson! I’ll keep them back.
+
+Id: [0x00056909]
+I had hoped it would not come to this. Now, in death, eternal freedom.
+
+Id: [0x0005690A]
+You mock me! I chose my destiny. That is real freedom. Perhaps one day you will know it too.
+
+Id: [0x0005690B]
+I...[fearing the answer to the question she’s about to ask] Who is the Company Man?
+
+Id: [0x0005690C]
+The answer has been in your own backyard all along. Just open your eyes--
+
+Id: [0x0005690F]
+Did you find what you sought?
+
+Id: [0x00056910]
+[FR]Oui (Yes), and much that I didn’t. [after a beat, hesitant]Connor, are you always...[diplomatic, afraid to push it] certain in the means and ways of the Brotherhood?
+
+Id: [0x00056911]
+I... trust my own hands.
+
+Id: [0x00056912]
+Of course.
+
+Id: [0x00056913]
+Travel safely.
+
+Id: [0x00056914]
+It’s the arrival that concerns me.
+
+Id: [0x00056915]
+[brief chuckle]Then you are on the right path.
+
+Id: [0x00056919]
+Papa, you surprised me.
+
+Id: [0x0005691A]
+I dared not interrupt. Your music is... breathtaking. I dare say you could stop a man’s heart.
+
+Id: [0x0005691B]
+You flatter me too much , Papa. The credit belongs to my teacher, I am but an instrument of his will.
+
+Id: [0x0005691C]
+How blessed we are with a daughter who uses her talents in peace... not to riot in the streets of New Orleans. There is so much unrest since the arrival of the Spanish...
+
+Id: [0x0005691D]
+Well. I don’t want to keep you from your practice. I simply came with a message from Monsieur Blanc. At your leisure, he requests your assistance at the warehouse. Do take care when you go. The streets are not safe for a lady.
+
+Id: [0x0005691E]
+No need to worry, Papa.
+
+Id: [0x0005691F]
+I will try to restrain myself. I know your charm and grace will protect you like armor.
+
+Id: [0x00056927]
+Torturers! Kidnappers!
+
+Id: [0x00056928]
+We demand answers!
+
+Id: [0x0005692A]
+Unwashed scabs! Go back to your swamps.
+
+Id: [0x0005692B]
+How many more will disappear?
+
+Id: [0x0005692C]
+Get back! Or I’ll give you a reason to protest.
+
+Id: [0x0005692F]
+Enough! The man is down. Don’t abuse what little power you have.
+
+Id: [0x00056930]
+Alright. Let me go.
+
+Id: [0x00056932]
+Now what’s this all about?
+
+Id: [0x00056933]
+People have been turning up missing. Or... not turning up, rather. That’s why we--
+
+Id: [0x00056934]
+But do you have proof the Spanish are behind it?
+
+Id: [0x00056935]
+Kidnappings have increased since their arrival.
+
+Id: [0x00056936]
+Increased?
+
+Id: [0x00056937]
+Life was never easy. Now it’s worse.
+
+Id: [0x00056938]
+Rioting will only worsen your plight. You need evidence.
+
+Id: [0x00056939]
+And how are we going to get that?
+
+Id: [0x0005693A]
+I... I don’t know. Yet.
+
+Id: [0x0005693C]
+Some help you are.
+
+Id: [0x00056941]
+Ah, Aveline! Good day. I have a er... surprise for you. What do you think?
+
+Id: [0x00056943]
+To the unknowing eye, an unassuming warehouse. But to our Brotherhood? Your new headquarters!
+
+Id: [0x00056945]
+Agaté takes his “office” in the swamp, but we thought you might prefer this for your... business dealings.
+
+Id: [0x0005694E]
+Aveline, I’ve er... concocted a special instrument for you.
+
+Id: [0x00056950]
+A... parasol? I suppose I should thank you but--
+
+Id: [0x00056951]
+Allow me to er... demonstrate.
+
+Id: [0x00056953]
+See? Elegant and deadly, just like my lady.
+
+Id: [0x00056954]
+Monsieur Blanc, you do know me so well.
+
+Id: [0x00056956]
+Ah!
+
+Id: [0x00056958]
+Right, er... So... Business. Do you recall our rival, Monsieur Bouché, who was twice caught watering his wine?
+
+Id: [0x00056959]
+Up to his old tricks again?
+
+Id: [0x0005695A]
+Now he claims our coffee er... erodes the nerves. He has erected a stall in the market, by the docks, and distributes handbills to that effect. Sales are... uh... impacted, and we have enough trouble keeping money in the company as it is.
+
+Id: [0x0005695B]
+Say no more. I’ll see to it that he ceases his slander.
+
+Id: [0x00056960]
+De Grandpré coffee produces hives about the face and causes fit men to walk with a limp!<br>Avoid the primitive muckwater!<br>Drink fine East India tea, the elixir of gentlemen!
+
+Id: [0x00056961]
+What’s the meaning of this?
+
+Id: [0x00056963]
+I don’t know, ma’am! They pay me to say what I’m told. I can’t even read, I swear!
+
+Id: [0x00056964]
+Where is your employer?
+
+Id: [0x00056965]
+At his warehouse, no doubt. Please don’t hurt me.
+
+Id: [0x0005696A]
+Mighty high security for tea...
+
+Id: [0x0005696D]
+Don’t kill me! What do you want?
+
+Id: [0x0005696E]
+Stop slandering de Grandpré’s reputation. Close your deceptive booth, clean the market of your insipid handbills, and issue a public apology.
+
+Id: [0x0005696F]
+Alright. I’ll apologize. I swear!
+
+Id: [0x00056971]
+What’s this?
+
+Id: [0x00056973]
+Coffee? How are you feeling? A touch nervous? Itchy?
+
+Id: [0x00056974]
+Alright, look. I’m desperate. I can’t keep my slaves from escaping. I lose money every day. And all my stock is in tea. If everyone starts drinking coffee, I’ll be through.
+
+Id: [0x00056975]
+Anyone who keeps slaves deserves to lose them. Next time, remember: far worse things can haunt a man than lost business.
+
+Id: [0x00056976]
+Alright, alright, alright ma’am.
+
+Id: [0x0005697B]
+He’ll be no more trouble.
+
+Id: [0x0005697C]
+I’ll say. He’s going bankrupt! Selling off his shops! Care to er... expand your empire?
+
+Id: [0x0005697D]
+Now there’s an idea. If I buy him out, I can pay his slaves a wage and set them on the path to freedom.
+
+Id: [0x0005697E]
+Certainly a more uh... peaceful solution than your er... usual method of handling slavers.
+
+Id: [0x0005697F]
+Thank you, Gérald.
+
+Id: [0x00056985]
+Gérald, I’m hearing about disappearing slaves again. I thought we ended that with [FR]Gouverneur[Governor] d’Abbadie. But it happens again--and not only slaves now, but laborers, the poor... Where are they all going?
+
+Id: [0x00056986]
+I’ll set my informants on finding out.
+
+Id: [0x00056987]
+No. I’ll do it myself. They need help now.
+
+Id: [0x00056988]
+May I suggest that you er... start with San Danje this time?
+
+Id: [0x00056989]
+Yes. This is one case we won’t solve at a garden party.
+
+Id: [0x0005698A]
+When you’re ready to go, find me outside, near the docks. I’ll show you a faster way there.
+
+Id: [0x00056994]
+Aveline, what troubles you?
+
+Id: [0x00056995]
+I’m investigating new reports of disappearances. Are you missing anyone?
+
+Id: [0x00056996]
+It does seem that way. But so many rest here before moving on, it is not always apparent where or why a man has gone. Your friend, Élise, hires many people to work. She may know better.
+
+Id: [0x00056997]
+Perhaps...
+
+Id: [0x00056998]
+I feel a great change coming. You will face powerful foes. Please, take this--a new poison I have been testing. It makes the victim momentarily hysterical...
+
+Id: [0x00056999]
+Thank you, venerable one.
+
+Id: [0x0005699E]
+Aveline, old girl! Where you been? The swamp’s not the same without you. The gators are getting uppity!
+
+Id: [0x0005699F]
+Oh, you know... business demands and piano recitals...
+
+Id: [0x000569A1]
+How I’ve missed the Bayou air. It has the scent of action about it!
+
+Id: [0x000569A2]
+Among other things...[after a beat, serious, confiding] Listen, I’m glad you’re here. The other day, I saw something, and I said to myself, Élise, old girl, there's something not right... Convoys, loaded with the strangest cargo: People. Dozens of them.
+
+Id: [0x000569A3]
+Where were they headed?
+
+Id: [0x000569A4]
+I can’t say. But I know where they came from: the Fort.
+
+Id: [0x000569A5]
+Will you show me the place?
+
+Id: [0x000569A6]
+Thought you’d never ask! Meet me tomorrow. I’ll mark your map.
+
+Id: [0x000569AB]
+A carriage just passed. We can catch it at the bend. I’ll race you!
+
+Id: [0x000569B1]
+I recognize these people! Some of them have worked for me.
+
+Id: [0x000569B3]
+Chrisfait! A word?
+
+Id: [0x000569B4]
+Élise! What are you doing here?
+
+Id: [0x000569B5]
+What does it look like? Rescuing you.
+
+Id: [0x000569B6]
+From what? Employment? Freedom?
+
+Id: [0x000569B7]
+Er... Chrisfait, these chains don’t exactly say “freedom” to me.
+
+Id: [0x000569B8]
+Temporary discomforts. Too many workers escaped the last voyage without paying their fare. We’ll be released once we reach the work site.
+
+Id: [0x000569B9]
+These terms don’t concern you?
+
+Id: [0x000569BA]
+Élise, everything in this life concerns me. But I can survive a little longer, ‘til we get south to freedom.
+
+Id: [0x000569BB]
+I don’t trust this.
+
+Id: [0x000569BC]
+Chrisfait, I promise we’ll get to the bottom of this.
+
+Id: [0x000569BD]
+But--
+
+Id: [0x000569BE]
+We should investigate the fort while the time is ripe. With all the soldiers in town, there can’t be many left.
+
+Id: [0x000569BF]
+Élis--
+
+Id: [0x000569C0]
+I like your thinking.
+
+Id: [0x000569C1]
+Good. I’ll scout ahead. Find me at the bridge.
+
+Id: [0x000569C2]
+And Chrisfait... Keep out of trouble.
+
+Id: [0x000569C3]
+While we go stir some.
+
+Id: [0x000569C5]
+Right... Thanks.
+
+Id: [0x000569C9]
+Now’s our best chance. The highest ranking man I’ve seen is a [SP]teniente (lieutenant). He’s lightly protected, but the fort is so big, we’ll need to be smart to find him.
+
+Id: [0x000569CA]
+I think we can handle that.
+
+Id: [0x000569CB]
+[FR]Oui (Yes). One thing confuses me. What would the Spanish want with the people of San Danje? Why them? Why now?
+
+Id: [0x000569CC]
+This isn’t the first time I’ve detected irregular activity around the Spanish. When they were first taking over, I stumbled on a plot to control the [FR]gouverneur[governor] and divert slaves to some underground project.
+
+Id: [0x000569CD]
+And?
+
+Id: [0x000569CE]
+I thought I made sure it wouldn’t happen again.
+
+Id: [0x000569CF]
+Let’s go make doubly sure.
+
+Id: [0x000569D3]
+Oh, hello my lovelies!<br>You run ahead, Aveline. I’ll stay here in the shooting gallery and cover your arse.
+
+Id: [0x000569D5]
+Yeah! Is that all you’ve got?<br>Keep it coming, boys!<br>Lots more where that came from.<br>I know, I know, I’m irresistible...
+
+Id: [0x000569D8]
+I suppose interrogation’s out of the question now.
+
+Id: [0x000569DA]
+There are quicker ways to get at the truth.
+
+Id: [0x000569DC]
+Does this mean we won’t get to board the work ship?
+
+Id: [0x000569DD]
+Work ship? Where is this work ship bound?
+
+Id: [0x000569DE]
+Away from this wretched colony, forever, that’s all I know.
+
+Id: [0x000569DF]
+Alright, everybody out! Come with me.
+
+Id: [0x000569E0]
+I’m going to die in this cesspool of a territory, aren’t I?
+
+Id: [0x000569E1]
+Aveline, you’d better make yourself scarce before you incite any more gratitude. I’ll escort these people back to San Danje.
+
+Id: [0x00056A29]
+Ah! Aveline... To er... draw Ulloa out, we can hit the Spanish where it hurts: in the flotilla. Two military vessels are anchored at the port. If anything were to uh... happen... to them. Ulloa could not ignore it.
+
+Id: [0x00056A2A]
+I’ll see what I can arrange.
+
+Id: [0x00056A32]
+You!
+
+Id: [0x00056A33]
+You!
+
+Id: [0x00056A35]
+Recognize me now, [SP] Capitán[Captain]?
+
+Id: [0x00056A37]
+No! Fury! Hellcat! Medusa!
+
+Id: [0x00056A38]
+Men! Subdue her at once!
+
+Id: [0x00056A3B]
+Please, please, have mercy. I’ll trouble you no further. I’ll give up ale and ragwater. I’ll mutton-monger no more. I’ll go to church! Please, leave me now to my sad, monkish end.
+
+Id: [0x00056A3D]
+You mistake me for your judge and executioner, “brother” Dominguez. Save yourself, if you’re not too slow with liquor.
+
+Id: [0x00056A43]
+My Student. By now you have surely seen the havoc the rebels wreak. A plan forms in my mind, but we must act fast. To receive your new orders, find me in the graveyard, my last safe refuge in the city. Make haste.
+
+Id: [0x00056A47]
+Aveline. Your face has been scarce around the bayou. Do you outgrow your need of me?
+
+Id: [0x00056A48]
+I came the moment I received your message.
+
+Id: [0x00056A49]
+I had a nightmare. I dreamt that you turned--no. Never mind.<br>I wonder if you would humor your old mentor with a show of loyalty?
+
+Id: [0x00056A4A]
+Agaté, I need not humor you. I am loyal. What do you need?
+
+Id: [0x00056A4B]
+I don’t know what you and Monsieur Blanc have been conspiring, but it is clear that now, amid the chaos of the riot, Ulloa will finally be forced to leave La Balize and negotiate for peace. Our moment is now.
+
+Id: [0x00056A4C]
+With the kidnapper dead, and safety restored, my mission will be complete. I will find peace.
+
+Id: [0x00056A4D]
+There is only one path the governor can take--the others are barricaded or in flames. You must prepare an ambush and strike at just the right moment. Find him, and kill him.
+
+Id: [0x00056A4E]
+I will.
+
+Id: [0x00056A5A]
+Please! No! Spare my wife and child!
+
+Id: [0x00056A5B]
+Like you’ve spared the lives of slaves and laborers you’ve ripped from their families?
+
+Id: [0x00056A5C]
+Yes! They are not harmed. Merely transported--to [SP]México.
+
+Id: [0x00056A5D]
+Mexico? To what end?
+
+Id: [0x00056A5E]
+I do not know. I am only an advisor. Please! My wife knows nothing! I told her the convoys were for criminals overflowing from the city jail. She is innocent! Allow me to make amends.
+
+Id: [0x00056A5F]
+You? Who knows nothing?
+
+Id: [0x00056A60]
+I am a man of science. My own southern expeditions required similar tools and manpower. The region is rich with relics predating even the Mayans--
+
+Id: [0x00056A62]
+Further, I can offer you this--
+
+Id: [0x00056A64]
+I was entrusted it by the Order. I will exchange it now, for the life of my family.
+
+Id: [0x00056A66]
+It can be used to decipher secret documents, like this one.
+
+Id: [0x00056A6A]
+I will turn my back now, and walk away. If you would like to keep your life, you will remove yourself from this continent, never to be seen again.
+
+Id: [0x00056A6B]
+Thank you! Thank you for your mercy.
+
+Id: [0x00056A6C]
+Mercy? This is not mercy. I merely leave you to contend with the arsenal of your own employers. A life of hiding awaits you. Go, and wallow in your false freedom.
+
+Id: [0x00056A71]
+Were you successful?
+
+Id: [0x00056A73]
+[FR]Gouverneur[Governor] Ulloa gave me this trophy.
+
+Id: [0x00056A75]
+Ah. A valuable find. This makes Ulloa’s death an incredible victory for the Assassin Brotherhood. I only wish I could have witnessed it myself. Tell me, what were his last words?
+
+Id: [0x00056A76]
+“Thank you for your mercy.”
+
+Id: [0x00056A77]
+What? You mean to say he is free?
+
+Id: [0x00056A78]
+This is how you choose to prove your loyalty to me? By disobeying my direct order? By letting our enemy run free?
+
+Id: [0x00056A79]
+My mentor, you are consumed by blood lust!
+
+Id: [0x00056A7A]
+We share a common goal: free the slaves, defeat our enemies, impose justice. We now have the tools we need to advance in our mission.
+
+Id: [0x00056A7B]
+I must follow our enemy to Mexico, now!
+
+Id: [0x00056A7C]
+You will do no such thing!
+
+Id: [0x00056A7D]
+If you will not see it, I must follow my own instincts.
+
+Id: [0x00056A7E]
+What is an Assassin without discipline? You will regret your insubordination.
+
+Id: [0x00056A7F]
+I’ll take that chance.
+
+Id: [0x00056A84]
+A small gesture. Hardly enough. I can offer them a wage, but what good is money without freedom?
+
+Id: [0x00056A85]
+One day... it will come. Or you will make it. I know it.
+
+Id: [0x00056A86]
+And in the meantime, what? I should congratulate myself while every day they face abuse, or worse?
+
+Id: [0x00056A87]
+The Templars will never allow slaves to be free! They keep even the rich in bondage--though most people would never suspect...
+
+Id: [0x00056A88]
+Gérald, if my father hadn’t freed my mother, I’d be in the same predicament.
+
+Id: [0x00056A89]
+But he did.
+
+Id: [0x00056A8A]
+I still owe them better.
+
+Id: [0x00056A90]
+If you don your slave guise, perhaps you can investigate this mystery from within.<CR>
+
+Id: [0x00056A91]
+A Dressing Chamber has been prepared for you in a strategic location. From the top of the convent, you will see it.
+
+Id: [0x00056A92]
+A Dressing Chamber has been prepared for you in a strategic location. From the top of the cathedral, you will see it.
+
+Id: [0x00056B2E]
+I have supplied you with the darts I have. Should you need more, find the Peddlar.
+
+Id: [0x00056B9C]
+I’ll keep a tally of properties available to buy, and make sure my informants keep an eye on er... opportunities. Look for them.
+
+Id: [0x00056B9F]
+It’s quite ingenious, really. It allows you to journey rapidly from one point to another. Try it.
+
+Id: [0x00056BA2]
+Who do you serve? And do you really think yourself free? “Charity should begin at himself,” Miss Aveline.
+
+Id: [0x00056BF7]
+[FR]Rentrez chez vous ! (Go home!)
+
+Id: [0x00056BF8]
+[FR]La Louisiane aux français ! (Louisiana to the French!)
+
+Id: [0x00056BF9]
+[SP]Mantengan la posición. (Hold your position.)
+
+Id: [0x00056BFB]
+[FR]Mort aux espagnols ! (Death to Spaniards!)
+
+Id: [0x00056BFC]
+[FR]Rendez-nous nos droits ! (Give us back our rights!)
+
+Id: [0x00056BFD]
+[SP]¡Alto! ¡Atrás! (Stop that! Back off!)
+
+Id: [0x00056BFE]
+[FR]Mort aux espagnols ! (Death to Spaniards!)
+
+Id: [0x00056BFF]
+[FR]Mort aux espagnols ! (Death to Spaniards!)
+
+Id: [0x00056C00]
+[FR]À bas le gouverneur ! (Kill the governor!)
+
+Id: [0x00056C02]
+[FR]Vive la Louisiane française ! (Hoorah for French Louisiana!)
+
+Id: [0x00056C03]
+Huagh!
+
+Id: [0x00056C05]
+Agh!
+
+Id: [0x00056C07]
+[SP]¡Al ataque! (Attack!)
+
+Id: [0x00056C08]
+Raaagh!
+
+Id: [0x00056C0A]
+Rrrraugh!
+
+Id: [0x00056C0E]
+Aveline!
+
+Id: [0x00056C11]
+Aveline, I’ve received a very er... exciting piece of intelligence: a gunpowder delivery-- on its way to a Spanish outpost--unless we uh... intercept it.
+
+Id: [0x00056C12]
+We?
+
+Id: [0x00056C13]
+Yes, well... SOMEONE needs to navigate...
+
+Id: [0x00056C14]
+I thought you--
+
+Id: [0x00056C15]
+I KNOW what you thought. Blanc the Sensible. Blanc the Boring. I’m more than just an accountant, Aveline!
+
+Id: [0x00056C16]
+Very well, you’re a navigator too. A regular Magellan.
+
+Id: [0x00056C18]
+And here we are.
+
+Id: [0x00056C1C]
+That was very er... efficient.
+
+Id: [0x00056C1F]
+They're stealing the gunpowder! Stop them! Stop them!
+
+Id: [0x00056C21]
+Hurry!
+
+Id: [0x00056C24]
+The road ahead is blocked. Turn right.
+
+Id: [0x00056C26]
+Go right!
+
+Id: [0x00056C28]
+Left! Left! Left!
+
+Id: [0x00056C29]
+That was close!
+
+Id: [0x00056C2A]
+You want the reins?
+
+Id: [0x00056C2C]
+Aaaah! Right, right!
+
+Id: [0x00056C2D]
+That’s it. Turn right again!
+
+Id: [0x00056C2E]
+Straight ahead!
+
+Id: [0x00056C2F]
+Left at the next intersection.
+
+Id: [0x00056C30]
+Turn right. No! Go left! Go left!
+
+Id: [0x00056C32]
+Go left!
+
+Id: [0x00056C33]
+Can’t! What now?
+
+Id: [0x00056C35]
+Recalculating...
+
+Id: [0x00056C36]
+Straight! Straight ahead!
+
+Id: [0x00056C37]
+Jump!
+
+Id: [0x00056C38]
+What?
+
+Id: [0x00056C39]
+On the horse! Now!
+
+Id: [0x00056C3C]
+Aaaahhh!
+
+Id: [0x00056C3D]
+--can’t get out! Help! Help!
+
+Id: [0x00056C3E]
+[FR]À l'aide !On va mourir ! (Help! We’re gonna die!)
+
+Id: [0x00056C3F]
+Help! Help!
+
+Id: [0x00056C46]
+[FR]Merci ! Merci ! (Thank you! Thank you!)
+
+Id: [0x00056C4C]
+Enough excitement for one night, Gérald?
+
+Id: [0x00056C4D]
+Yes, I think that should last me nicely.[after a beat] Terrible waste of wine, mind you...
+
+Id: [0x00056C4E]
+Spanish wine makes better floor polish anyway.
+
+Id: [0x00056C50]
+They’ll be looking for you.
+
+Id: [0x00056C51]
+Aren’t they always?
+
+Id: [0x00056C55]
+[SP]¡Formación! (Formation!)
+
+Id: [0x00056C57]
+[SP]¡Alto el fuego! ¡En formación! (old your fire! Stay in formation!)
+
+Id: [0x00056C5C]
+[FR]Libération ! (Liberation!)
+
+Id: [0x00056C72]
+Aveline! I--
+
+Id: [0x00056C74]
+You’ve been gone two years! I... I thought you were a ghost.
+
+Id: [0x00056C75]
+I left Chichen Itza the moment it was secure.
+
+Id: [0x00056C76]
+Then you were... successful?
+
+Id: [0x00056C77]
+De Ferrer... will no longer trouble us.
+
+Id: [0x00056C78]
+But there is more to this story.
+
+Id: [0x00056C79]
+Always...
+
+Id: [0x00056C7A]
+I have much to tell you as well. The Spanish are... sympathetic to our aims now. New laws may... ease your efforts to help the slaves.
+
+Id: [0x00056C7B]
+Could it be that for the first time, home holds more comfort than conflict?
+
+Id: [0x00056C7E]
+I'm afraid I must now spoil your homecoming with... business. There has been... strange activity. Men in Spanish uniforms raising havoc in the bayou.
+
+Id: [0x00056C7F]
+Still? I thought you said Spanish interests are now aligned with ours.
+
+Id: [0x00056C80]
+That’s what makes it so... strange.
+
+Id: [0x00056C81]
+Are they secretly working for--
+
+Id: [0x00056C82]
+That’s what we need to find out. I have one lead. An Informant has seen a man bribing soldiers in town. For whom?
+
+Id: [0x00056C83]
+I’ll investigate.
+
+Id: [0x00056C85]
+Aveline, aren’t you forgetting something?
+
+Id: [0x00056C88]
+I er... uh... merely meant to give you--
+
+Id: [0x00056C8A]
+Oh... er... Thank you.
+
+Id: [0x00056C8C]
+It’s been too long.
+
+Id: [0x00056C90]
+As you can see, my employer is prepared to be very generous.
+
+Id: [0x00056C92]
+Then you will join our cause?
+
+Id: [0x00056CEF]
+No! Your uh... other left!
+
+Id: [0x00056D0F]
+Mentor, I know you have doubted me. But please, my absence has not been in vain. Look what I have found.
+
+Id: [0x00056D11]
+You should have left it where it lay. Do you have any idea of its purpose or power?
+
+Id: [0x00056D12]
+I was hoping you could enlighten--
+
+Id: [0x00056D13]
+Had you not insisted on dredging it up, no one would need to know!
+
+Id: [0x00056D14]
+The Templars will be looking for it. Please, send reinforcements to help me retrieve and guard the other half.
+
+Id: [0x00056D15]
+No.
+
+Id: [0x00056D16]
+Remove it from my sight. Bury it and forget the spot. Grind it into powder. Plant it under an alligator nest. Let me never lay eyes on it again.
+
+Id: [0x00056D17]
+What about our greater goals? I liberated the slave camp in Chichen Itza—-did that not surpass our best expectations? Have I not earned--
+
+Id: [0x00056D18]
+Aveline, you surpass my patience, and earn your reputation for impulsiveness.
+
+Id: [0x00056D19]
+Very well.
+
+Id: [0x00056D1A]
+Now be gone.
+
+Id: [0x00057A56]
+Aveline, you have returned.
+
+Id: [0x00057A57]
+[FR]Maman[Mom]! You are not afraid of me.
+
+Id: [0x00057A58]
+Aveline, I have passed more years missing you than mothering you. If I cannot know you now that you are returned to me, then why have I waited all this time?
+
+Id: [0x00057A5A]
+My love is stronger than my fear. You are no Assassin; you are my daughter.
+
+Id: [0x00057A5C]
+Will you ever understand why I had to leave?
+
+Id: [0x00057A5D]
+[FR]Oui (Yes). You thought your life was in danger.
+
+Id: [0x00057A5E]
+Your father made me free but I could never be free in [FR]Nouvelle Orleans (New Orleans). Not with the Assassins watching.
+
+Id: [0x00057A5F]
+Are you free here?
+
+Id: [0x00057A60]
+No. I traded one enemy for another. And they will not rest until they have what they seek.
+
+Id: [0x00057A61]
+The missing shard of the disk.
+
+Id: [0x00057A62]
+As long as it is here, I will always feel their eyes on me. But if someone were to remove it... Someone strong, and resourceful...
+
+Id: [0x00057A63]
+I might know someone like that.
+
+Id: [0x00057A64]
+If you see her, please give her this map, and let her know about the old canoe that remained in the cenote after our last expedition.
+
+Id: [0x00057A66]
+Tell her to go quickly. Somehow, they are watching. If she was to be discovered, we would both...
+
+Id: [0x00057A67]
+Fear not, [FR]Maman[Mom]. You will know peace soon.
+
+Id: [0x00057A6E]
+[A quiet “aha I found it” sound. She is triumphant but doesn’t want her triumph reverberating through the cenote and alerting the Templars to her presence.]
+
+Id: [0x00057A72]
+Aveline! Were you successful?
+
+Id: [0x00057A74]
+Do not show me. I have seen too much already. I need never lay eyes on it again.
+
+Id: [0x00057A76]
+[FR]Maman[Mom], I will return to New Orleans and set everything right. Then I will send for you.
+
+Id: [0x00057A77]
+My dear, tenacious daughter, I want nothing more than to be close to you again. But this colony is my place now. The people here need me. [FR]Nouvelle Orleans (New Orleans) will always be haunted.
+
+Id: [0x00057A78]
+I understand. Don’t worry. This will not be the last you see of me.
+
+Id: [0x00057A7A]
+Be careful, my child.
+
+Id: [0x00057A7E]
+Aveline! What a pleasant surprise! I trust you had a safe journey?
+
+Id: [0x00057A7F]
+Safety.[laughs] What a quaint concept.
+
+Id: [0x00057A80]
+Aveline, are you well?
+
+Id: [0x00057A82]
+You may quit your maternal act,[seething] “Company Man”. I’m well aware of your true identity.
+
+Id: [0x00057A84]
+Oh Aveline, do not be so angry! Do you think that I do not know where you go when you climb through your window to the rooftops at night? How you played the dainty daughter to your doting father? How you pretend to blend with slaves, of all people! As if you could conceal your true self from me!
+
+Id: [0x00057A85]
+My dear, sweet stepdaughter. You are alive today because I needed you. Because I still need you.
+
+Id: [0x00057A86]
+For what?
+
+Id: [0x00057A88]
+Sit down.
+
+Id: [0x00057A8A]
+A little late for that, don’t you think? My men will kill you. Then what will be left of your precious Brotherhood?
+
+Id: [0x00057A8C]
+At ease.
+
+Id: [0x00057A8E]
+Look at us. So sad. How many years have we worked together, for the slaves?
+
+Id: [0x00057A90]
+[short laugh]You kept them enslaved, on your own terms, out of sight, for your ill gain.
+
+Id: [0x00057A91]
+You ended that. As was my intention. Monsieur de Ferrer had different ideas. He perverted my peaceful colony into something ugly. You had to kill him; I owe you gratitude.
+
+Id: [0x00057A92]
+I don’t believe you.
+
+Id: [0x00057A93]
+Aveline, I love you. I raised you as my own.[a beat] I was unable to bear children, but you brought light to my life.
+
+Id: [0x00057A94]
+My whole life, you lied to me.
+
+Id: [0x00057A95]
+I am sorry... it was necessary. A mother’s duty is to protect. But look at me now in the light of truth--You, who know so well the pain of a life lived in secret, shrouding your power in petticoats and lace, pretending obedience to men who deny you the right to your own abilities. Am I really so strange to you?
+
+Id: [0x00057A97]
+I needed you to quash the terrorist elements in my organization. I need you still. I cannot let the Assassins waste your talents. You are too valuable to me.
+
+Id: [0x00057A98]
+As a tool, to manipulate?
+
+Id: [0x00057A99]
+I know you have been frustrated. [leading] Agaté...
+
+Id: [0x00057A9A]
+[a long beat]I disobeyed. De Ferrer would still live if he had his way.
+
+Id: [0x00057A9B]
+You see? Your aims match mine.
+
+Id: [0x00057A9D]
+Join me, Aveline. Finish what you started.
+
+Id: [0x00057AA1]
+Agaté.
+
+Id: [0x00057AA2]
+The student returns. Why? What use have you suddenly found for old Agaté?
+
+Id: [0x00057AA3]
+I have discovered the identity of the Company Man.
+
+Id: [0x00057AA4]
+What? Did you not kill him, years ago?
+
+Id: [0x00057AA5]
+That was not the Company Man.
+
+Id: [0x00057AA6]
+[short bitter laugh]You ignored my warning, and now you see your error.
+
+Id: [0x00057AA7]
+It was your responsibility to know, as much as mine, Agaté.
+
+Id: [0x00057AA8]
+I was a child when you brought me into the Brotherhood and made me an Assassin. You pretended to protect me, to root out the enemy, and all along, my own stepmother, Madeleine, was the Company Man.
+
+Id: [0x00057AA9]
+[a short gasp; he fumbles for words]Iniquity runs in the family.
+
+Id: [0x00057AAC]
+Agaté! Stop! Recover your senses!
+
+Id: [0x00057AAE]
+That day, when the sailors attacked you--I should not have intervened. I thought you had the spirit of a warrior, like your mother, but you only take after your father... that waxy, pale slave master.
+
+Id: [0x00057AAF]
+You have no right!
+
+Id: [0x00057AB2]
+Agaté! It doesn’t have to be like this! The shards of the Chichen Itza disk—-Work with me! Tell me what they are for!
+
+Id: [0x00057AB3]
+I told you never to speak to me of that! The knowledge--it will destroy us all!
+
+Id: [0x00057AB4]
+And without it, we will continue to stumble blindly, towards what?
+
+Id: [0x00057AB5]
+Not towards... Away! Put it from your mind!
+
+Id: [0x00057AB8]
+Mentor, do not force my hand! The Agaté who trained me is a man of truth and courage. I know he still lives within you. Let him out again!
+
+Id: [0x00057ABC]
+Oh![a sharp, pained cry of sudden realization and regret] What have I wrought? I should have stayed with your mother. You should have been my child, raised as a daughter, not twisted into this... monster.
+
+Id: [0x00057ABE]
+Go now, Agaté. Run. And promise never to return.
+
+Id: [0x00057ABF]
+You would bid me a coward’s slow, pointless death? As you did Ulloa? I will not live with the dishonor. I--
+
+Id: [0x00057AC1]
+Agaté!
+
+Id: [0x00057AC4]
+[FR]Adieu. (Farewell.)
+
+Id: [0x00057AC7]
+I have done as you asked. He is dead.
+
+Id: [0x00057AC9]
+And the disk?
+
+Id: [0x00057ACC]
+Do you swear to uphold the principles of our Order and all that for which we stand?
+
+Id: [0x00057ACD]
+I do.
+
+Id: [0x00057ACE]
+To never share our secrets nor divulge the true nature of our work?
+
+Id: [0x00057ACF]
+I do.
+
+Id: [0x00057AD0]
+And to do so from now until death--whatever the cost?
+
+Id: [0x00057AD1]
+I do.
+
+Id: [0x00057AD2]
+Then I welcome you into our arms, sister. Together we shall usher in the dawn of a New World. One in which our hands will ensure that all things find their proper place.
+
+Id: [0x00057ADB]
+There is more.
+
+Id: [0x00057ADD]
+[Garbled First Civ Lines go here, such as: "She will become their leader." or "She must be stopped."]
+
+Id: [0x00057AE0]
+[short roar of frustration]It does not work! Why can’t I understand?
+
+Id: [0x00057AE5]
+Why?
+
+Id: [0x00057AE6]
+You can blame Chichen Itza on de Ferrer, but I see through you.
+
+Id: [0x00057AE7]
+My daughter... No.
+
+Id: [0x00057AE8]
+[short, rueful, bitter laugh]“Daughter”. Only two people can call me that. You banished one, and sacrificed the other.
+
+Id: [0x00057AEA]
+Foxglove. You killed my father with your "care” and your tonic. Why? Because he never truly loved you?
+
+Id: [0x00057AEB]
+And Jeanne, my mother. You stole her child, sent her away. You kept her enslaved even after my father had freed her.
+
+Id: [0x00057AEC]
+And now you attempt to return me to that fate.
+
+Id: [0x00057AED]
+In the service of humanity! In Work, the purpose for which you were created. We were created! The highest purpose.
+
+Id: [0x00057AEE]
+I. will. Not. Serve. You.
+
+Id: [0x00057AF0]
+No!
+
+Id: [0x00057AF2]
+[death sounds]
+
+Id: [0x00057AF4]
+Eve will lead us through the war of generations.
+
+Id: [0x00057AF5]
+There will be great sacrifice, great sorrow, to end the enslavement of the human race.
+
+Id: [0x00057AF6]
+Now is the time to claim our freedom. Are you with us?
+
+Id: [0x00057AF7]
+I am.
+
+Id: [0x00057AF8]
+Eve will lead us.
+
+Id: [0x00057AFA]
+It is done.
+
+Id: [0x00057B01]
+Gérald![sounding worried] You look as though you’ve seen a ghost.
+
+Id: [0x00057B03]
+With you back, it feels like home again.
+
+Id: [0x00057B06]
+Please Gérald—-now is not the time...
+
+Id: [0x00057B09]
+So it seems.
+
+Id: [0x00057B0A]
+[SP]Sì. (Yes.)
+
+Id: [0x00057B0D]
+Stop her!
+
+Id: [0x00057B17]
+Stay sharp! And remember who puts coins in your purse.
+
+Id: [0x00057B1C]
+[SP]Señor,<br><br>Perhaps you underestimate the vast, winding, expanse of the bayou. I will repeat: I need enough men to control all of it. Recruit the entire Spanish army if you must.<br><br>Yours in absolute discretion,<br><br>Vázquez
+
+Id: [0x00057B1D]
+Vázquez! De Ferrer mentioned him, in Chichen Itza... Is he the Company Man?
+
+Id: [0x00057B1E]
+I must warn Agaté and the Smugglers!
+
+Id: [0x00057B24]
+Agaté!
+
+Id: [0x00057B25]
+Who—-[sounding suspicious]Who are you?[pensive] You look like a faithful student I had once, long ago. She no longer exists.
+
+Id: [0x00057B26]
+Mentor, I know you have doubted me. But please, my absence has not been in vain. Look what I found.
+
+Id: [0x00057B28]
+You should have left it where it lay. Do you have any idea of its purpose or power?
+
+Id: [0x00057B29]
+I was hoping you could enlighten--
+
+Id: [0x00057B2A]
+Had you not insisted on dredging it up, no one would need to know!
+
+Id: [0x00057B2B]
+Remove it from my sight. Bury it and forget the spot. Grind it into powder. Plant it under an alligator nest. Let me never lay eyes on it again.
+
+Id: [0x00057B2F]
+Very well.
+
+Id: [0x00057B30]
+Now be gone.
+
+Id: [0x00057B31]
+Not before I warn you, mentor. You are not safe here.
+
+Id: [0x00057B32]
+Have I not been telling you this for years?[more to himself, under his breath] Useless child.
+
+Id: [0x00057B33]
+This threat is new, and very real. A man, Vázquez--
+
+Id: [0x00057B34]
+I am aware. He bribes Spanish troops. But I already have plans to outwit them. I will use their superstition against them.
+
+Id: [0x00057B35]
+Let me help.
+
+Id: [0x00057B36]
+I know I cannot stop you.
+
+Id: [0x00057B37]
+You will see, my loyalty is real.
+
+Id: [0x00057B38]
+Very well. Listen closely. See if you can follow this plan.
+
+Id: [0x00057B39]
+I have planted signs[he shows her samples], which our dear European friends find terrifying.
+
+Id: [0x00057B3A]
+If you are able to follow instructions, you may tail them from sign to sign, and eliminate them silently, giving the appearance of a voodoo "curse”.
+
+Id: [0x00057B3B]
+And then? A curse may frighten them, but will it be enough to stop the flow of new recruits?
+
+Id: [0x00057B3C]
+More questions? I thought you were here to help.
+
+Id: [0x00057B40]
+Look! It’s--It’s--[he whimpers]
+
+Id: [0x00057B41]
+How childish can you be? It’s nothing.
+
+Id: [0x00057B43]
+W--what are you doing?
+
+Id: [0x00057B44]
+What do you think? I’m removing it!
+
+Id: [0x00057B45]
+You can’t! We’ll be cursed!
+
+Id: [0x00057B46]
+Ooh, we’ll be cursed. Truly, I'm terrified.
+
+Id: [0x00057B49]
+[startled, sound of fear]It’s true!
+
+Id: [0x00057B4B]
+[A whimper.]
+
+Id: [0x00057B4C]
+Move out! It is not safe here.
+
+Id: [0x00057B50]
+[SP]Dios santo (God in heaven), more voodoo!
+
+Id: [0x00057B54]
+[scream of terror]
+
+Id: [0x00057B56]
+Deserter! Come back! I will have you court-marshaled!
+
+Id: [0x00057B57]
+Now who’s the child?
+
+Id: [0x00057B58]
+Keep moving, men! And this time, keep your eyes open and wits about you. May God watch over us.
+
+Id: [0x00057B5C]
+[short scream]
+
+Id: [0x00057B5D]
+Run! Run!
+
+Id: [0x00057B60]
+[FR]Bonjour (Greetings), smugglers!
+
+Id: [0x00057B61]
+Aveline! It’s been a long while!
+
+Id: [0x00057B62]
+Too long![serious, to the point] Listen, have you noticed any unusual activity on the bayou?
+
+Id: [0x00057B63]
+Other than ours, you mean?
+
+Id: [0x00057B64]
+We have been noticing rather a lot of men in Spanish uniforms... although I would question both their manhood and their allegiance!
+
+Id: [0x00057B65]
+They've been bribed by a man named Vázquez. He works for--
+
+Id: [0x00057B66]
+Vázquez! [FR]Sacrebleu! (Damn!) I know his name. I heard soldiers talking. He plans to divert a supply ship tomorrow.
+
+Id: [0x00057B67]
+Unless we divert it first...
+
+Id: [0x00057B68]
+I like how you think! Have I not said it before, Élise? I love how she thinks!
+
+Id: [0x00057B69]
+I’m in the mood for a diversion, myself.
+
+Id: [0x00057B6A]
+If I may make a suggestion: the lighthouse on Lake Pontchartrain. If you euh... tamper with it, perhaps that ship may never reach her berth.
+
+Id: [0x00057B6B]
+Roussillon, I like how you think! Have I not said it before, Élise? I love how he thinks!
+
+Id: [0x00057B73]
+Aveline! You’ve done it! The ship, she is stuck in the mud!
+
+Id: [0x00057B74]
+Now you will reap your reward... and I will cut Vázquez down to size.
+
+Id: [0x00057B75]
+And then, we celebrate!
+
+Id: [0x00057B77]
+Aveline, I’ll gather my men. We’ll meet you at the ship.
+
+Id: [0x00057B78]
+And the plundering will begin!
+
+Id: [0x00057B7A]
+Are you drunk already?
+
+Id: [0x00057B7B]
+Were you not more fun when we met? I seem to remember...
+
+Id: [0x00057B7C]
+Nothing, you remember nothing.
+
+Id: [0x00057B7D]
+Right... because I’m so drunk. [he laughs]
+
+Id: [0x00057B81]
+Élise, are your men ready?
+
+Id: [0x00057B82]
+Ready? They can barely contain themselves!
+
+Id: [0x00057B83]
+Please, help me do something about those guards, before our men rush the ship and get shot full of holes.
+
+Id: [0x00057B86]
+[whistles]Come and get it, boys!
+
+Id: [0x00057B89]
+[Waoh]Aveline, that was spectacular!
+
+Id: [0x00057B8A]
+I’m only sorry Vázquez wasn’t on board.
+
+Id: [0x00057B8B]
+Now, now... I wouldn’t be too sorry just yet. Perhaps this will be of help?
+
+Id: [0x00057B8E]
+Incredible, Roussillon! Thank you!
+
+Id: [0x00057B8F]
+Incredible? That's what all the ladies say.
+
+Id: [0x00057B90]
+But you are most welcome, all the same. [with a smirk]If there is any other... “service” I might render--
+
+Id: [0x00057B91]
+Thank you, but it’s clear now what I must do. I must return to Chichen Itza, before it’s too late.
+
+Id: [0x00057B94]
+One of our newest informants sends word of a Loyalist in New York who might, with a little pressure, unmask the Company Man.
+
+Id: [0x00057B95]
+Please, go to New York and find your Brother, Connor. I have enlisted his help in locating Officer Davidson of Lord Dunmore's Ethiopian Regiment.
+
+Id: [0x00057B99]
+Yes. Achilles told me you would come.
+
+Id: [0x00057B9A]
+I seek a loyalist--Officer Davidson, of Lord Dunmore's Ethiopian Regiment.
+
+Id: [0x00057B9B]
+That regiment passed through here. Look at the destruction they left.
+
+Id: [0x00057B9E]
+Their trail leads this way. We will follow them carefully.
+
+Id: [0x00057BA1]
+Over there! Through the trees!
+
+Id: [0x00057BA3]
+A trap! Keep after the sentry. I will hold off these men.
+
+Id: [0x00057BAA]
+Papa you’re the face of death! [a beat]What does the doctor say?
+
+Id: [0x00057BAB]
+[Coughs]Do not worry, [FR]ma chérie (my dear). It is only a--[cry of reacting to sudden sharp abdominal pain cuts off his sentence]
+
+Id: [0x00057BAE]
+Papa!
+
+Id: [0x00057BB1]
+[cough-laugh]My dear love, do not frown so. Between your worry and your stepmother’s tonic, the [FR]maladie (malady) hurts less than the cure! [wince]
+
+Id: [0x00057BB3]
+Jeanne... you were always so protective of that locket. I have always regretted--
+
+Id: [0x00057BB6]
+Aveline, I am sorry for interrupting, but I need your assistance—-it is urgent.
+
+Id: [0x00057BB7]
+Of course.
+
+Id: [0x00057BB9]
+I love you, Papa.
+
+Id: [0x00057BBD]
+There is a slave, George. I promised him safe passage to the North, but during his escape, he was discovered by soldiers. He hides, but--
+
+Id: [0x00057BC0]
+Please, is there anything you can do? With your business booming, and your contacts in the bayou...
+
+Id: [0x00057BC1]
+[FR]Oui (Yes). I will get him to safety... in utmost discretion.
+
+Id: [0x00057BC4]
+Who are you? What are you? No one said anything about avenging angels or... [he ultimately can’t decide how to finish his sentence]
+
+Id: [0x00057BCA]
+Aveline! Who is this?
+
+Id: [0x00057BCB]
+George. A friend.
+
+Id: [0x00057BCD]
+We have a situation I’m hoping you’ll help with.
+
+Id: [0x00057BCE]
+Aveline, a friend of yours is a friend of ours, but uh we’ve got a situation of our own brewing.
+
+Id: [0x00057BCF]
+Our Spanish friends want us to hand these supplies over to some, how-do-you-say, [FR]Patriotes[Patriots]... at the edge of the swamp.
+
+Id: [0x00057BD0]
+Patriots?
+
+Id: [0x00057BD1]
+[FR]Oui (Yes). You know... from the North. [FR]Rébellion[Rebellion], upheaval, etcetera...
+
+Id: [0x00057BD2]
+A business opportunity, by any other name. But for some reason, the Spanish soldiers keep trying to steal the supplies back!
+
+Id: [0x00057BD3]
+This sounds awfully familiar. You don’t think...
+
+Id: [0x00057BD4]
+Oh, I try never to think. [raucous laughter]
+
+Id: [0x00057BD6]
+Suppose George and I were to help you with your “rogue Spanish soldier” problem, would your Patriot friends escort him north?
+
+Id: [0x00057BD7]
+If they want more supplies, they'll accept.
+
+Id: [0x00057BD8]
+Good. Let’s go.
+
+Id: [0x00057BDE]
+Ahoy!
+
+Id: [0x00057BDF]
+Hopton?
+
+Id: [0x00057BE0]
+Hopton.
+
+Id: [0x00057BE1]
+[FR]Enchantée. (Charmed.)
+
+Id: [0x00057BE2]
+These are the goods?
+
+Id: [0x00057BE3]
+Everything the [FR]gouverneur[governor] promised, and a few, euh, bonus items, from your friends in the bayou.
+
+Id: [0x00057BE4]
+Excellent. You weren’t detected, I hope?
+
+Id: [0x00057BE7]
+Not by any who still breathes.
+
+Id: [0x00057BE8]
+[laughs]
+
+Id: [0x00057BE9]
+Monsieur Hopton, how secret is your arrangement with our Spanish [FR]gouverneur[governor]?
+
+Id: [0x00057BEA]
+Any fool can see the Spanish want to keep the English out of their territory.
+
+Id: [0x00057BEB]
+Any sense why Spanish soldiers would be shooting at us?
+
+Id: [0x00057BEF]
+We did meet one man who didn’t seem so keen on the arrangement. Contrary fellow. Vázquez, I think was his name.
+
+Id: [0x00057BF0]
+The Company Man is here!
+
+Id: [0x00057BF1]
+The What Man?
+
+Id: [0x00057BF2]
+[suddenly overcome by a small coughing fit, which we do not yet realize is brought on by wanting to distract from the subject of the Company Man]
+
+Id: [0x00057BF3]
+Er... Monsieur Hopton, if you want your supplies to make it out of [FR]la Louisiane (Louisiana), additional security would be wise. May I suggest George accompany you?
+
+Id: [0x00057BF4]
+Certainly. If he is willing to fight, the Patriot cause will be glad to have him.
+
+Id: [0x00057BF5]
+I will fight for you, sir, over any cause.
+
+Id: [0x00057BF6]
+Be careful, Monsieur Hopton. I hope to see you again.
+
+Id: [0x00057BF7]
+Euh, Monsieur Roussillon and I value your business.
+
+Id: [0x00057BF8]
+I will.
+
+Id: [0x00057BF9]
+The er... Patriots, value your support.
+
+Id: [0x00057BFD]
+Aveline!
+
+Id: [0x00057BFE]
+Gérald!  He is back. Vázquez! The Company Man! Have any of your informants seen him?
+
+Id: [0x00057BFF]
+No. Aveline, since last week I have lost two of my men. Killed. Poison.
+
+Id: [0x00057C01]
+This is his work. I must find him.
+
+Id: [0x00057C05]
+Perhaps he will attend the [SP]Capitán's Ball, this evening. Shall I confirm your attendance?
+
+Id: [0x00057C08]
+[FR]Oui (Yes). Thank you, Gérald.
+
+Id: [0x00057C09]
+And, er, Aveline, uh... you will need someone to accompany you... I don’t suppose...
+
+Id: [0x00057C0A]
+Gérald, are you asking to accompany me?
+
+Id: [0x00057C0B]
+Er... well, [FR]oui (yes), for er... blending purposes, I believe it would be best... strictly business, of course...
+
+Id: [0x00057C0C]
+Of course. But not too strict, I hope.
+
+Id: [0x00057C14]
+[Laughing][FR]Révolution[Revolution]! What a noble concept!
+
+Id: [0x00057C15]
+Of course, war is always good for business.
+
+Id: [0x00057C16]
+Particularly a war that’s not in our territory. The good Spanish [FR]gouverneur[governor] provides the goods, I relay them to my associates in the Bayou, and they handle the er... transfer.
+
+Id: [0x00057C17]
+Completely bloodless!
+
+Id: [0x00057C18]
+For me! [he laughs]
+
+Id: [0x00057C19]
+[he laughs with Maxent]
+
+Id: [0x00057C1B]
+Ah, Aveline, lovely as ever. How does your father fare?
+
+Id: [0x00057C1C]
+Stubborn as always.
+
+Id: [0x00057C1D]
+I look forward to seeing him on his feet soon. You must allow me one dance, that I may showcase your grace, in your father’s stead.
+
+Id: [0x00057C20]
+That is very kind, Monsieur de Saint Maxent. And if you could perhaps waltz me by your esteemed associate in the blue cravat, I have a business opportunity I’d like to put before him.
+
+Id: [0x00057C21]
+Aveline, always so serious... Nothing like my daughter, Marie Félicité.
+
+Id: [0x00057C25]
+Who do you think I should marry?
+
+Id: [0x00057C26]
+Whichever of us is the best dancer.
+
+Id: [0x00057C27]
+You would have me dance with all of you? I shall be exhausted!
+
+Id: [0x00057C28]
+Please, [SP]Señorita[Miss], allow me to save you the trouble. You need only dance with me.
+
+Id: [0x00057C29]
+[giggles]
+
+Id: [0x00057C2B]
+Marie Félicité, I thought the de Saint Maxent girls only had eyes for governors.
+
+Id: [0x00057C2D]
+Now who is this?
+
+Id: [0x00057C2E]
+[SP]Señorita[Miss], give us your name, that we may know how to address the fairest woman at the ball.
+
+Id: [0x00057C2F]
+"Fair?" I think not. But still, your complexion is beguiling. Please, [SP]Señorita[Miss], allow me to complete your dance card.
+
+Id: [0x00057C30]
+I’m afraid it's already full.
+
+Id: [0x00057C32]
+That is simply her way. Have you heard, she prefers her father’s warehouse to tea parties? Never calls on any of us!
+
+Id: [0x00057C33]
+And her complexion. Of course, she is a dear friend of the family, but her mother... it is shocking!
+
+Id: [0x00057C36]
+Beneath the uniform, he is no true military man, I assure you.
+
+Id: [0x00057C37]
+Twice, recruiters have approached me, claiming to offer me promotion if I’ll serve in his secret unit. But I don’t trust it, no [SP]Señor[sir].
+
+Id: [0x00057C38]
+Good man. We could use more young men like you, with a head on their shoulders.
+
+Id: [0x00057C39]
+Thank you, [SP]Capitán[Captain].
+
+Id: [0x00057C3B]
+Good evening, [SP]Señorita[Miss]. You look... familiar. Were you at the governor’s dinner party last week? I’m so sorry I don’t remember your name.
+
+Id: [0x00057C3D]
+Perfectly understandable for a man with such important affairs as yours, [SP]Capitán[Captain]. Thank goodness for your service in the colony.
+
+Id: [0x00057C3E]
+The thanks is all mine, [SP]Señorita[Miss]. Will you allow me to express it with a dance.
+
+Id: [0x00057C40]
+Why certainly, [SP]Capitán[Captain].
+
+Id: [0x00057C42]
+I should warn you to be careful, [SP]Señorita[Miss]. Even here at this delightful party, danger is present. All soldiers are not what they appear. We were just discussing a terrible man.
+
+Id: [0x00057C43]
+How scandalous! Is he here, tonight?
+
+Id: [0x00057C46]
+He is, at this moment, seated at a secluded table.
+
+Id: [0x00057C48]
+Until the gavotte, [SP]Capitán[Captain].
+
+Id: [0x00057C49]
+I shall think of nothing else.
+
+Id: [0x00057C4B]
+[SP]Señorita[Miss].
+
+Id: [0x00057C4E]
+Why I do believe the Minuet is the next dance, [SP]Señor Vázquez.
+
+Id: [0x00057C4F]
+[SP]Sí, sí. (Yes, yes.)
+
+Id: [0x00057C55]
+Apologies, [SP]Señorita[Miss]. These French steps will always seem foreign to me.
+
+Id: [0x00057C56]
+Well, perhaps a paso doble then, next time?
+
+Id: [0x00057C57]
+Next time? [SP]Sí, sí, Señorita (Yes, yes, Miss). And when will that be?
+
+Id: [0x00057C59]
+Can we retire somewhere private to discuss it?
+
+Id: [0x00057C5A]
+[SP]Sí, sí (yes, yes), lead the way.
+
+Id: [0x00057C60]
+[breaths full of effort, close to death]
+
+Id: [0x00057C61]
+Good night, Company Man.
+
+Id: [0x00057C62]
+Company Man?
+
+Id: [0x00057C63]
+No. You are mistaken.
+
+Id: [0x00057C64]
+What?
+
+Id: [0x00057C65]
+[short rueful laugh]Futile murder... beautiful death. She... will make you suffer.
+
+Id: [0x00057C69]
+Madeleine!
+
+Id: [0x00057C6A]
+Aveline!
+
+Id: [0x00057C6B]
+I did not know you were attending.
+
+Id: [0x00057C6C]
+I came only to find you. How could you? A ball, with your father on his deathbed?
+
+Id: [0x00057C6D]
+I--
+
+Id: [0x00057C6E]
+Save your words. It is too late. He is gone.
+
+Id: [0x00057C6F]
+Papa! No!
+
+Id: [0x00057C72]
+I am so sorry. But you had to know, with your circumstances, that he could not leave you anything. Of course, my[suddenly proprietary about Philippe's house] house remains open to you.
+
+Id: [0x00057C73]
+I care not about his will. Only that he is gone.
+
+Id: [0x00057C74]
+His business is in my name, but I consider it yours. The law has no place between us.
+
+Id: [0x00057C75]
+[mournful sigh]
+
+Id: [0x00057C7B]
+Papa, I’m not--
+
+Id: [0x00057C7C]
+Why did you leave? I would have married you if I could... You know my arrangement with Madeleine was... business. She convinced me... If the law was different... How can you ever forgive me?
+
+Id: [0x00057C7E]
+I don’t know, Papa.
+
+Id: [0x00057C83]
+To the fort!
+
+Id: [0x00057C8B]
+Can you get across?
+
+Id: [0x00057C99]
+Ah, silence at last. Go now, before you spoil this moment.
+
+Id: [0x00057C9A]
+[a sudden, shocking "boo!" sound]
+
+Id: [0x00057CC6]
+My daughter, you are one of us now...[louder] May the father of understanding guide us.
+
+Id: [0x00057CC8]
+May the father of understanding guide us.
+
+Id: [0x00057CC9]
+May the father of understanding guide us.
+
+Id: [0x00057CCA]
+May the father of understanding guide us.
+
+Id: [0x00057CCB]
+May the father of understanding guide us.
+
+Id: [0x00057CCC]
+May the father of understanding guide us.
+
+Id: [0x00057CCD]
+May the father of understanding guide us.
+
+Id: [0x00057CE1]
+No!
+
+Id: [0x00057CE6]
+It cannot be. I refuse to believe it![a beat] All these wasted years... A lifetime of sacrifice and-- [inhaling deeply, collecting herself]
+
+Id: [0x00057CE8]
+We have all the pieces, I am certain of it.[a beat, remembering something about Santo Domingo] Unless...
+
+Id: [0x00057CED]
+Eve will lead us.
+
+Id: [0x00057D00]
+Papa you’re the face of death! [a beat]What does the doctor say?
+
+Id: [0x00057D01]
+[Coughs]Do not worry, [FR]ma chérie (my dear). It is only a--[cry of reacting to sudden sharp abdominal pain cuts off his sentence]
+
+Id: [0x00057D03]
+Papa!
+
+Id: [0x00057D05]
+[cough-laugh]My dear love, do not frown so. Between your worry and your stepmother’s tonic, the [FR]maladie (malady) hurts less than the cure! [wince]
+
+Id: [0x00057D07]
+Jeanne... you were always so protective of that locket. I have always regretted--
+
+Id: [0x00057D09]
+Aveline, I am sorry for interrupting, but I need your assistance—-it is urgent.
+
+Id: [0x00057D0A]
+Of course.
+
+Id: [0x00057D0C]
+I love you, Papa.
+
+Id: [0x00057D0D]
+[heavy sick breathing]
+
+Id: [0x00057D13]
+Meanwhile, the slaves and the poor are targets in New Orleans, and you play the hero in New York.
+
+Id: [0x00057D3E]
+Not! It cannot be!
+
+Id: [0x00057D3F]
+Agaté... What have you done to me?
+
+Id: [0x00057D41]
+Agaté! Stop!
+
+Id: [0x00057D43]
+You flatter me too much, Papa. The credit belongs to my teacher. I am but an instrument of his will.
+
+Id: [0x00057D44]
+Ah! Aveline. Simply come here when you need to travel out of town. The uh... business... will cover any er... expense.
+
+Id: [0x00057D55]
+Merde!
+
+Id: [0x00057D56]
+[exclamation sound! -Gerald_Surprised08]
+
+Id: [0x00057D58]
+[exclamation sound - Gerald_Surprised09]
+
+Id: [0x00057D5A]
+[FR]Rentrez chez vous ! (Go home!)
+
+Id: [0x00058060]
+Aveline, this is embarrassing, but I wonder if you could do me a favor?
+
+Id: [0x00058063]
+Oh, my soul! What has happened here?
+
+Id: [0x00058066]
+Astounding work on the de Maxent case, [FR]Mademoiselle[Miss] Aveline.
+
+Id: [0x00058097]
+Aveline, [FR]ma belle (my lovely)! Listen, I have a job for you. Are you interested?
+
+Id: [0x0005881E]
+Aveline, I’ve received er... disturbing intelligence. In the heat of the riot, citizens were arrested. I... I fear for their lives!
+
+Id: [0x0005881F]
+Where are they?
+
+Id: [0x00058820]
+A Spanish wine repository. I’ll show you, but what about--
+
+Id: [0x00058821]
+The gunpowder?
+
+Id: [0x00058822]
+It must be destroyed![a beat] My informants confirm the shipment has been loaded onto a carriage...
+
+Id: [0x00058823]
+We’ll steal it! And use the carriage to storm the repository!
+
+Id: [0x00058826]
+Here we are.
+
+Id: [0x00058827]
+I’ll wait here.
+
+Id: [0x00058830]
+Where is the wine repository?
+
+Id: [0x00058831]
+Near the docks. Turn right here.
+
+Id: [0x00058832]
+Near the docks. Turn left here.
+
+Id: [0x00058833]
+Near the docks.
+
+Id: [0x00058834]
+The carriage is on fire!
+
+Id: [0x00058835]
+Hold on to your hat!
+
+Id: [0x00058836]
+I’m not wearing one!
+
+Id: [0x00058837]
+The road is blocked. We’ll never make it!
+
+Id: [0x00058838]
+We will. The Spanish won’t know what hit them.
+
+Id: [0x0005883B]
+Aveline, what are you--
+
+Id: [0x0005883C]
+Jump!
+
+Id: [0x0005883D]
+What? Have you gone mad?
+
+Id: [0x0005883E]
+On the horse! Now!
+
+Id: [0x0005883F]
+Wohaaaaa![long panicked scream]
+
+Id: [0x00058843]
+Help! Help!
+
+Id: [0x00058844]
+I don’t want to die!
+
+Id: [0x00058845]
+Let us out! Let us out!
+
+Id: [0x00058846]
+The warehouse is on fire!
+
+Id: [0x00058847]
+The roof will collapse!
+
+Id: [0x00058848]
+I’m too young to die!
+
+Id: [0x00058849]
+This is an outrage!
+
+Id: [0x0005884A]
+What about our rights?
+
+Id: [0x0005884B]
+I can’t breathe!
+
+Id: [0x0005884C]
+Air! Need air!
+
+Id: [0x0005884D]
+[long coughing sound]
+
+Id: [0x0005884F]
+I’ll handle this!
+
+Id: [0x00058850]
+Too many have suffered.
+
+Id: [0x00058851]
+Let’s finish this.
+
+Id: [0x00058857]
+Everyone is safe now. Are you feeling alright Gérald?
+
+Id: [0x00058858]
+[FR]Oui...(Yes...) That was er... nicely done, Aveline.[after a beat] Terrible waste of wine, mind you...
+
+Id: [0x00058859]
+Spanish wine makes better floor polish anyway.
+
+Id: [0x000595AB]
+[FR]Mademoiselle[Miss] Aveline, Perhaps you have noticed prices are higher in the market?
+
+Id: [0x000595AD]
+[FR]Mademoiselle[Miss] Aveline, conspiracy is afoot at the docks.
+
+Id: [0x000595AF]
+[FR]Mademoiselle[Miss] Aveline, a shady character, Monsieur Reynaud--if that is his real name--diverts goods through the Bayou to the black market, thanks to ties with the Spanish Military.
+
+Id: [0x000595B3]
+[FR]Mademoiselle[Miss] Aveline, we have a problem that needs a woman's touch--a question of supply and demand.
+
+Id: [0x000595B5]
+A trick of the enemy, I presume?
+
+Id: [0x000595B6]
+Indeed. An Extortionist named Ratel. He intimidates the merchants and steals their profits. To compensate, they demand more for their goods--and they give less in trade.
+
+Id: [0x000595B7]
+Time for an economic adjustment.
+
+Id: [0x000595B8]
+Yes. Find him near the docks, and "adjust" him. We will all reap the reward.
+
+Id: [0x000595BA]
+With full support of the government, the mogul Shipwright, Salmon, fixes impossibly high prices for ships and repairs.
+
+Id: [0x000595BB]
+Please, find him at the docks, and introduce him to a higher law.
+
+Id: [0x000595BC]
+Good thing I don't work for the government.
+
+Id: [0x000595BE]
+What now?
+
+Id: [0x000595C1]
+What else is new?
+
+Id: [0x000595C2]
+I have a sinking feeling about this one: the most disreputable Monsieur de Vandal sabotages rival ships.
+
+Id: [0x000595C5]
+In this town, even the underbelly has an underbelly. How low have they gone now?
+
+Id: [0x000595C6]
+I will find him, and bring him to the surface.
+
+Id: [0x000595C7]
+I'll manufacture a reason to pay him a visit.
+
+Id: [0x000595C8]
+[FR]Mademoiselle[Miss] Aveline, the overstuffed textile trade bursts with corruption.
+
+Id: [0x000595CA]
+[FR]Mademoiselle[Miss] Aveline, your crusade against seedy elements has revealed enemy activity at unfathomable depths.
+
+Id: [0x000595CD]
+True. We are in short supply in New Orleans.
+
+Id: [0x000595CE]
+No. I uh, meant, er, raw materials--tobacco, cotton, sugar.
+
+Id: [0x000595D0]
+The enemy has won over a key producer, Monsieur Marcantell. He is famously social, but one needs a certain charm, grace, and status to move in his circle.
+
+Id: [0x000595D4]
+I'll sew this up as quickly as possible.
+
+Id: [0x000595D5]
+How unseemly. And the enemy is to blame?
+
+Id: [0x000595D6]
+Yes. A single Textiler--Monsieur Chapperon--keeps prices tightly knotted.
+
+Id: [0x000595D7]
+You might not imagine that gunsmiths are wealthy but--
+
+Id: [0x000595DA]
+[FR]Mademoiselle[Miss] Aveline, I have an important job for you.
+
+Id: [0x000595DB]
+Shoot. [Go ahead]
+
+Id: [0x000595DC]
+With the number of guns I go through? You might be surprised.
+
+Id: [0x000595DD]
+I stand corrected. Then it will come as no surprise to you that a wealthy Gunsmith, Monsieur de Chevallier hides in his manse, controlling the prices of weapons across New Orleans.
+
+Id: [0x000595DE]
+I'll find him and arrange for a permanent discount.
+
+Id: [0x000595DF]
+Besides the heat and the alligators?[after a beat] His headquarters are near the fort.
+
+Id: [0x000595E0]
+I'll go apply a little heat of my own.
+
+Id: [0x0005C14E]
+A single dart, blown from a distance, will fell a man. You may use this to your advantage, if you approach in stealth.
+
+Id: [0x0005C18E]
+... Farewell and adieu to you best Paris ladies, farewell and adieu to you ladies of Spa... Spain. [burp]
+
+Id: [0x0005C18F]
+[rambling]It is the only thing I am! I am Carlos Dominguez!
+
+Id: [0x0005C191]
+Monsieur de Maxent, your friendship is so important to our family. You must never hesitate to ask for anything I can help with.
+
+Id: [0x0005C192]
+Very well. It is my daughter, Marie Félicité. Her reputation is in danger.
+
+Id: [0x0005C193]
+That gossip, Madame Petit has come into possession of a piece of ill-advised correspondence that might cause great harm were its contents revealed.
+
+Id: [0x0005C194]
+I know you have a way with people. Perhaps, as a lady, you could persuade her to relinquish it.
+
+Id: [0x0005C195]
+Hmm. Persuade. Yes. Of course, Monsieur. Say no more.
+
+Id: [0x0005C1AC]
+Oh, Aveline, child! Come, shield your eyes. A young lady such as yourself must not be witness to such brutal sights!
+
+Id: [0x0005C1AD]
+Thank you, Monsieur de Maxent. Oh, it's just ghastly!
+
+Id: [0x0005C1AF]
+May I offer you a handkerchief, mademoiselle Aveline?
+
+Id: [0x0005C1B0]
+Thank you, Monsieur, but I think I am regaining my composure now.
+
+Id: [0x0005C1B1]
+That's a brave girl.
+
+Id: [0x0005C1B3]
+While I have you here, Aveline. The... earlier matter we spoke of... did you...?
+
+Id: [0x0005C1B4]
+Oh of course. How could I forget? Your daughter's virtue is as safe as it ever was Monsieur. The letter has been destroyed.
+
+Id: [0x0005C1BD]
+We analyzed the letter you found, and traced it to Monsieur Lachaise. He generally likes to take a back seat, and manage his affairs by proxy.
+
+Id: [0x0005C1BE]
+The men you apprehended attacking Monsieur de Maxent were in his employ.
+
+Id: [0x0005C1BF]
+I'll sit him down and teach him a lesson.
+
+Id: [0x0005C1C1]
+Aveline. I had hoped you would return.
+
+Id: [0x0005C1C3]
+Aveline, do you remember the slave you brought me, Thérèse?
+
+Id: [0x0005C1C4]
+Of course...
+
+Id: [0x0005C1C6]
+Can I trust you, daughter?
+
+Id: [0x0005C1C7]
+Always! But with what?
+
+Id: [0x0005C1C8]
+There is another slave, a man. He was separated from his wife and son.
+
+Id: [0x0005C1C9]
+[concerned "mmm" sound]
+
+Id: [0x0005C1CA]
+If you can bring him to me, I can reunite them.
+
+Id: [0x0005C1CB]
+[mildly shocked "oh!" sound]
+
+Id: [0x0005C1CC]
+Of course, I will help any way I can.
+
+Id: [0x0005C1CD]
+I do not need to know the way.
+
+Id: [0x0005C1CF]
+Who?... What?
+
+Id: [0x0005C1D0]
+Thank you, but...
+
+Id: [0x0005C1D1]
+There is no time. Come with me quickly.
+
+Id: [0x0005C1D2]
+Where?
+
+Id: [0x0005C1D3]
+To your family.
+
+Id: [0x0005C1D5]
+Thank you, Aveline. Your commitment to helping these people is clear. I will suggest a few more chances to help, at your discretion.
+
+Id: [0x0005C1D6]
+My associates are taking a great risk. I will give you the pass-phrase to confirm their trust.
+
+Id: [0x0005C1EB]
+What is the matter with these poor souls?
+
+Id: [0x0005C1ED]
+It is an infection. They believe it is a curse, but in truth, only a medicine drawn from a rare fungi will save them.
+
+Id: [0x0005C1EE]
+How can I help?
+
+Id: [0x0005C1EF]
+The fungi is vexing to collect. Like the riddle says: "Dank or dangerous, high or low, where none dare tread, the fungi grows." And... of late, I lack agility if not daring.
+
+Id: [0x0005C1F0]
+Say no more. I will find it for you.
+
+Id: [0x0005C1F1]
+I know of a place you may find some. Please, hurry.
+
+Id: [0x0005C1F3]
+Aveline! Just in time. Please, can you help me give them the medicine? I am afraid it may take a little... force. With the fever, they are not of the right mind.
+
+Id: [0x0005C1F5]
+Good. They will thank you... Later... One day.
+
+Id: [0x0005C1F6]
+I had thought you would accept it as confirmation of my loyalty. My...[like she was about to say mother and stopped herself] someone told me you were looking for it.
+
+Id: [0x0005C1F7]
+You should not allow gossip to infect your mind.
+
+Id: [0x0005C1F8]
+I will not give up.
+
+Id: [0x0005C21A]
+[short sigh of relief, because Madeleine seems to still be unaware of her Assassin persona]
+
+Id: [0x0005C251]
+... He has balls of steel!
+
+Id: [0x0005C254]
+[desperate]What was her name?
+
+Id: [0x0005CAAA]
+Take it. You’ve earned it.
+
+Id: [0x0005CAAD]
+AVELINE: a woman among reptiles.
+
+Id: [0x0005CB98]
+Will you honor me with a dance?
+
+Id: [0x0005CB99]
+I would be charmed, [SP]señor.
+
+Id: [0x0005CB9C]
+I have an informant who can lead you straight to the problem.
+
+Id: [0x0005CB9D]
+Psst!
+
+Id: [0x0005CB9E]
+Follow me.
+
+Id: [0x0005CB9F]
+[Short frustrated sound]All this listening, and following and waiting... for what?
+
+Id: [0x0005CBA0]
+Don't forget, you're doing double duty now!
+
+Id: [0x0005CBA1]
+Soon you will drink to me with the spoils of our arrangement.
+
+Id: [0x0005CBA2]
+I'll pad your pockets, in return for your loyalty.
+
+Id: [0x0005CBA4]
+George?
+
+Id: [0x0005CBA5]
+Yes?
+
+Id: [0x0005CBA6]
+Come with me!
+
+Id: [0x0005CBA7]
+What--
+
+Id: [0x0005CBA8]
+Hurry! They're closing in.
+
+Id: [0x0005CBAD]
+Go! Find safety in the Bayou.
+
+Id: [0x0005CBC9]
+Time to go. Take your crates. Now!
+
+Id: [0x0005CBDD]
+Why the limp, old man?
+
+Id: [0x0005CBDE]
+You mock me? I am dying!
+
+Id: [0x0005CBDF]
+It's only a scratch!
+
+Id: [0x0005CBE0]
+You'll regret this when I'm gone.
+
+Id: [0x0005CBE1]
+You weren't even hit on that side.
+
+Id: [0x0005CBE2]
+I'm taking you out of my will.
+
+Id: [0x0005CBE3]
+You want me to hit you on the other side? Even it out?
+
+Id: [0x0005CC0C]
+Move along!
+
+Id: [0x0005CC0D]
+Nice and steady.
+
+Id: [0x0005CC0E]
+Gently! Careful!
+
+Id: [0x0005CCC5]
+Rubbish.
+
+Id: [0x0005CCC6]
+Hm.
+
+Id: [0x0005CCC7]
+No.
+
+Id: [0x0005CCC8]
+[disappointed sigh]
+
+Id: [0x0005CCC9]
+No.
+
+Id: [0x0005CCCA]
+[aggravated sigh]
+
+Id: [0x0005CCCB]
+These could be hers!
+
+Id: [0x0005CCCD]
+She never went anywhere without it.
+
+Id: [0x0005CCCF]
+This was my mother's. I'd know it anywhere.
+
+Id: [0x0005CD36]
+[FR]Mademoiselle (Miss), please.
+
+Id: [0x0005CD3F]
+[FR]Mademoiselle (Miss)...
+
+Id: [0x0005CD43]
+What is the matter? Why are you still in the city? It is not safe!
+
+Id: [0x0005CD47]
+I know, but my family-- our only belongings- some clothes, and money I have been hiding- they are being kept from us.
+
+Id: [0x0005CD48]
+If I show you the place, can you help me retrieve them.
+
+Id: [0x0005CD49]
+Of course. Lead the way.
+
+Id: [0x0005CD4B]
+Thank you.
+
+Id: [0x0005CD4C]
+Please, go now, through the Bayou. And have a safe journey.
+
+Id: [0x0005CD4D]
+We will.
+
+Id: [0x0005CD4E]
+Please, mademoiselle, I don't know who else to turn to. It's my wife. She has disappeared!
+
+Id: [0x0005CD4F]
+She has been recaptured?
+
+Id: [0x0005CD50]
+No. I fear it might worse. Those rough men in the bayou-- I fear she has joined them.
+
+Id: [0x0005CD51]
+Soon after we arrived, she began to speak of revenge. Of revolution!
+
+Id: [0x0005CD52]
+These men, they encourage her. They have weapons. But I do not think they are who they say they are.
+
+Id: [0x0005CD53]
+I tried to warn her. And then... she vanished. Please, can you help?
+
+Id: [0x0005CD54]
+Yes. We don't have much time.
+
+Id: [0x0005CD56]
+[FR]Mademoiselle (Miss), Aveline.
+
+Id: [0x0005CD57]
+You again?
+
+Id: [0x0005CD5A]
+Are you all right, Madame?
+
+Id: [0x0005CD5B]
+Yes. Thankfully. Can no one here be trusted?
+
+Id: [0x0005CD5C]
+Yes, but we are few and far between. I hope you can remove your family to safety.
+
+Id: [0x0005CD5D]
+I will. And once I do, mark my words, the revolution will come.
+
+Id: [0x0005CD5E]
+I hope you are right.
+
+Id: [0x0005CD61]
+From this desk you can manage--or better still, expand your family's trading empire.
+
+Id: [0x0005CD62]
+This room is all yours.
+
+Id: [0x0005CD63]
+Over here, you have a private place to change your guise.
+
+Id: [0x0005CD64]
+All of your guises are kept here.
+
+Id: [0x0005CD65]
+Here, you have a trophy cabinet. I'm sure you will have no trouble filling it.
+
+Id: [0x0005CD66]
+And most importantly, your weapons and tools will be kept here.
+
+Id: [0x0005CD67]
+[Happy sigh.]
+
+Id: [0x0005CD68]
+It is to your liking, then?
+
+Id: [0x0005CD69]
+It's perfect.
+
+Id: [0x0005CD6A]
+In that case, I will leave you a quiet moment to familiarize yourself with everything.
+
+Id: [0x0005CD70]
+And all of your guises are kept here.
+
+Id: [0x0005CD76]
+We're blocked!
+
+Id: [0x0005CD77]
+There's no way out!
+
+Id: [0x0005CD78]
+This could work.
+
+Id: [0x0005CD79]
+Everything I need for an ambush...
+
+Id: [0x0005CD7A]
+We're under attack!
+
+Id: [0x0005CD7B]
+Help!
+
+Id: [0x0005CD7C]
+We're taking a lot of damage!
+
+Id: [0x0005CD7D]
+[FR]Aie! (Ouch!)
+
+Id: [0x0005CD7E]
+This is making me nervous!
+
+Id: [0x0005CD80]
+[short shout of surprise]
+
+Id: [0x0005CD81]
+[short "whoa" sound]
+
+Id: [0x0005CD82]
+They're going to kill us!
+
+Id: [0x0005CD83]
+Oh no!
+
+Id: [0x0005CD84]
+There's an outpost up ahead. Clear it before they see us.
+
+Id: [0x0005CD85]
+Just one last outpost up ahead.
+
+Id: [0x0005CD86]
+What?
+
+Id: [0x0005CD87]
+Whoa!
+
+Id: [0x0005CD88]
+No!
+
+Id: [0x0005CD89]
+Oh, why me?
+
+Id: [0x0005CDB2]
+Who?
+
+Id: [0x0005CDB3]
+What?
+
+Id: [0x0005CDB4]
+But you--
+
+Id: [0x0005CDB5]
+[bitter laugh] Does your conscience attack you?
+
+Id: [0x0005CDB8]
+The Order... is... the... future.
+
+Id: [0x0005CDB9]
+The locket you wear--I know it well.
+
+Id: [0x0005CDBA]
+No! It's an illusion.
+
+Id: [0x0005CDBB]
+A poisonous deception. Nothing more.
+
+Id: [0x0005CDBC]
+Our aims must not be so different.
+
+Id: [0x0005CDBD]
+No. You are mistaken.
+
+Id: [0x0005CDBE]
+Just open your eyes--
+
+Id: [0x0005CDCB]
+Aveline, you are er... unhappy? What did you find?
+
+Id: [0x0005CDCC]
+Too much and not enough. The Spanish are behind the kidnappings... But... the kidnapped seem to... look forward to their transit--to where I don’t know. No one at the fort could tell me.
+
+Id: [0x0005CDCD]
+The directive must come straight from the er... top--from [FR]Gouverneur (Governor) Ulloa. Is this why he hides in La Balize, instead of coming to the city and leading like a proper leader? What is his true purpose here?
+
+Id: [0x0005CDCE]
+I don’t know, but I intend to find out.
+
+Id: [0x0005CDCF]
+That will be difficult as long as he stays couched in la Balize--
+
+Id: [0x0005CDD0]
+I’ll drive him out and make him answer.
+
+Id: [0x0005CDD1]
+Interrogation is not your er... usual style.
+
+Id: [0x0005CDD2]
+This is not a “usual” circumstance.
+
+Id: [0x0005CDD3]
+Good. Then let us gather our unusual circumstances to plan our er... attack.<br>This Spanish “gouverneur” has placed so many restrictions on trade, even plantation owners are practically “begging” for an excuse to riot.
+
+Id: [0x0005CDD4]
+If I can infiltrate the crowd, I can create that excuse.
+
+Id: [0x0005CDD5]
+Yes. The resulting mayhem should provide more than enough cover for your real mission. I can help you pinpoint a er... sensitive location. You’ll need to assume your slave guise, to... uh... blend with the crowd.
+
+Id: [0x0005CDDE]
+I’ve received a very er... exciting piece of intelligence: a gunpowder delivery!  It’s on its way to a city outpost--unless we uh... intercept it.
+
+Id: [0x0005CDDF]
+I’m not dressed for interception. Do I have time to change?
+
+Id: [0x0005CDE0]
+Yes. Assume your true guise, get your weapons, and we’ll go.
+
+Id: [0x0005CDE1]
+We? You’re coming too? You do realize it might get dangerous.
+
+Id: [0x0005CDE2]
+Yes, well... SOMEONE needs to navigate...
+
+Id: [0x0005CDE3]
+Dressed like THAT? Gérald I--
+
+Id: [0x0005CDE4]
+Aveline, I'll have you know, I’m not... afraid to get my hands dirty! Why should you have all the excitement?
+
+Id: [0x0005CDE5]
+I didn’t know you wanted--
+
+Id: [0x0005CDE6]
+I KNOW what you think. Blanc the Sensible. Blanc the Boring. I’m more than just an accountant, Aveline!
+
+Id: [0x0005CDE7]
+Very well. You’re a navigator too. A regular Magellan.
+
+Id: [0x0005CDFA]
+The road ahead is blocked. Turn right.
+
+Id: [0x0005CDFE]
+Left! Left! Left!
+
+Id: [0x0005CDFF]
+That was close!
+
+Id: [0x0005CE00]
+You want the reins?
+
+Id: [0x0005CE18]
+--can’t get out! Help! Help!
+
+Id: [0x0005CE19]
+[FR]A l'aide! On va mourir! (Oh god! We’re gonna die!)
+
+Id: [0x0005CE1A]
+Help! Help!
+
+Id: [0x0005CE22]
+[FR]Merci! Merci! Merci! (Thank you! Thank you! Thank you!)
+
+Id: [0x0005CE28]
+Well... I think we got their attention.
+
+Id: [0x0005CE29]
+Now to get Ulloa out of La Balize!
+
+Id: [0x0005CE2A]
+I... suggest we er... regroup... at the Warehouse to uh... strategize.
+
+Id: [0x0005CE2B]
+Enough excitement for one day, Gérald?
+
+Id: [0x0005CE2C]
+Yes, I think that should last me nicely. Thank you.
+
+Id: [0x0005CE62]
+They're stealing the gunpowder! Stop them! Stop them!
+
+Id: [0x0005CE64]
+Hurry!
+
+Id: [0x0005CE70]
+Aaaah! Right, right!
+
+Id: [0x0005CE71]
+That’s it. Turn right again!
+
+Id: [0x0005CE73]
+Left at the next intersection.
+
+Id: [0x0005CE74]
+Turn right. No! Go left! Go left!
+
+Id: [0x0005CE76]
+Go left!
+
+Id: [0x0005CE78]
+Can’t! What now?
+
+Id: [0x0005CE7C]
+Merde!
+
+Id: [0x0005CE7D]
+Jump!
+
+Id: [0x0005CE7E]
+What?
+
+Id: [0x0005CE7F]
+On the horse! Now!
+
+Id: [0x0005CE81]
+[exclamation sound! -Gerald_Surprised08]
+
+Id: [0x0005CEA6]
+There is the carriage. You know what to do with the guards.
+
+Id: [0x0005CEA7]
+I’ll wait here.
+
+Id: [0x0005CEB0]
+Near the docks. Turn right here.
+
+Id: [0x0005CEB4]
+Hold on to your hat!
+
+Id: [0x0005CEB5]
+I’m not wearing one!
+
+Id: [0x0005CEC1]
+Where are we going?
+
+Id: [0x0005CEC6]
+The warehouse is on fire!
+
+Id: [0x0005CEC7]
+The roof will collapse!
+
+Id: [0x0005CED8]
+A terrible waste of wine, mind you...
+
+Id: [0x0005CED9]
+Spanish wine makes better floor polish anyway.
+
+Id: [0x0005CEE9]
+You are certain this will work? I am not in the habit of harming civilians.
+
+Id: [0x0005CEEA]
+I am certain. And observe: under the fever's influence, they are hardly civil.
+
+Id: [0x0005CEEC]
+Please, there are many others who will need your help. If you can find more mushrooms, you will find no shortage of patients who need it.
+
+Id: [0x0005CEF1]
+I am mapping the locations of their camps, so we can outsmart them and take back what they looted.
+
+Id: [0x0005CEF2]
+There is just one remaining area that is a little...
+
+Id: [0x0005CEF3]
+Tell me what it is first. Élise already warned me about your "jobs".
+
+Id: [0x0005CEF5]
+Excellent work!
+
+Id: [0x0005CEF6]
+I don't suppose, you would be interested in eliminating a few of the camps for me, if I gave you the full map?
+
+Id: [0x0005CEF7]
+I would do it for the people of San Danje.
+
+Id: [0x0005CEF8]
+As you wish. Any treasure you find, we can share--two thirds for me, one third for you.
+
+Id: [0x0005CEF9]
+Oh really?
+
+Id: [0x0005CEFB]
+[laughs]Very well, fifty-fifty, then!
+
+Id: [0x0005CEFD]
+Oh fine. You know I can not resist you. Keep it all.
+
+Id: [0x0005CEFF]
+[laughter]
+
+Id: [0x0005CF00]
+It's that Mackandal impostor, Baptiste. You ended his terror, but his men did not get the message.
+
+Id: [0x0005CF01]
+Dangerous?
+
+Id: [0x0005CF02]
+No! Annoying. I spit at danger.[spits]
+
+Id: [0x0005CF03]
+How can I help?
+
+Id: [0x0005CF04]
+Annoying?
+
+Id: [0x0005CF06]
+They are camped out all over the swamp. They threaten the people of San Danje, and make smuggling a little...
+
+Id: [0x0005CF07]
+Exactly.
+
+Id: [0x0005CF08]
+Say no more. I will take care of it.
+
+Id: [0x0005CF09]
+I'll show you where to start.
+
+Id: [0x0005CF0B]
+Go on. Go...
+
+Id: [0x0005CF0C]
+You may need to cut more than once before you have enough.
+
+Id: [0x0005CF16]
+Oh!
+
+Id: [0x0005CF17]
+[SP]¡Oh, Dios cruel! (Thou art cruel, oh lord!)
+
+Id: [0x0005CF18]
+[Drunkenly singing a really sad, butchered rendition of Spanish Ladies, like last time only depressed, like a broken man.]
+
+Id: [0x0005CF1C]
+[drunk bleating crying sound]
+
+Id: [0x0005CF1E]
+[Shriek of terror]
+
+Id: [0x0005CF1F]
+You! No! My troubles! My pain! My suffering. It all starts with you!
+
+Id: [0x0005CF20]
+Come on man, have some self respect. What's the trouble now?
+
+Id: [0x0005CF22]
+My ship? Gone! Money? Gone! Wife?
+
+Id: [0x0005CF23]
+I never even had a wife!
+
+Id: [0x0005CF24]
+And this man, he says "Oh, [SP]Capitán (Captain), I am so poor." I am so generous, I lend him money. He buys a ship, he becomes rich.
+
+Id: [0x0005CF25]
+Now I go to him. I say "Oh, [SP]Capitán (Captain), I am so poor."[after a beat, enraged] And he refuses to pay me back!
+
+Id: [0x0005CF26]
+Quit your crying, and clean yourself up. I'll take care of it.
+
+Id: [0x0005CF27]
+Oh thank you!
+
+Id: [0x0005CF28]
+But only if you sober up enough to make yourself useful!
+
+Id: [0x0005CF29]
+Ohh...
+
+Id: [0x0005CF2B]
+Very well! Stop! Stop! What do you want?
+
+Id: [0x0005CF2C]
+The ship you bought with the generosity of Capitan Dominguez. You won't be needing it anymore.
+
+Id: [0x0005CF2D]
+I... er...[giving up] Very well.
+
+Id: [0x0005CF2F]
+I have retrieved the man's ship. You may use it now.
+
+Id: [0x0005CF30]
+Oh! Thank you! Thank you!
+
+Id: [0x0005CF31]
+Now you are in my protection. You will repay this kindness by working for me.
+
+Id: [0x0005CF32]
+If that is my only option, I accept.
+
+Id: [0x0005CF33]
+I mean... It would be my great honor, my sweet and gentle [SP]ángel (angel).
+
+Id: [0x0005CF38]
+Aveline, we have intercepted information concerning plans for a new cannon that would prove most useful in defending your trading efforts against pirates.
+
+Id: [0x0005CF39]
+I will provide you the location of the blueprints, but the rest will be up to you.
+
+Id: [0x0005CF3A]
+It goes without saying, the plans are highly guarded and stealth is of the highest importance.
+
+Id: [0x0005CF41]
+Hey!
+
+Id: [0x0005CF42]
+[SP]Senorita[Miss]!
+
+Id: [0x0005CF43]
+A word, [SP]senorita (miss)?
+
+Id: [0x0005CF44]
+Yes?
+
+Id: [0x0005CF45]
+[SP]Capitán (Captain) Dominguez says you are fast. [SP]Capitán (Captain) Dominguez says you can climb. [SP]Capitán (Captain) Dominguez says--
+
+Id: [0x0005CF46]
+Alright, alright! Enough about [SP]Capitán (Captain) Dominguez. What do you want?
+
+Id: [0x0005CF47]
+To race you, and prove I am faster!
+
+Id: [0x0005CF48]
+What do I get when you lose?
+
+Id: [0x0005CF49]
+If I lose, I will be happy to serve on your crew!
+
+Id: [0x0005CF4A]
+You have a deal.
+
+Id: [0x0005CF5C]
+Nothing is true.
+
+Id: [0x0005CF5D]
+Open your eyes.
+
+Id: [0x0005CF5E]
+They do not want you to see.
+
+Id: [0x0005CF5F]
+Is this all there is?
+
+Id: [0x0005CF60]
+Work harder.
+
+Id: [0x0005CF61]
+There must be more.
+
+Id: [0x0005CF62]
+Nothing to see here.
+
+Id: [0x0005CF74]
+Your reason's right there.
+
+Id: [0x0005D023]
+I am Erudito.
+
+Id: [0x0005D024]
+A message from Erudito.
+
+Id: [0x0005D025]
+I know the truth.
+
+Id: [0x0005D026]
+The truth is there for you to see.
+
+Id: [0x0005D027]
+I will help you uncover the truth.
+
+Id: [0x0005D028]
+Let me help you uncover the truth.
+
+Id: [0x0005D029]
+Let me show you the truth.
+
+Id: [0x0005D02A]
+Let me show you what really happened.
+
+Id: [0x0005D02B]
+See what they have left out...
+
+Id: [0x0005D02C]
+Here is something they have left out...
+
+Id: [0x0005D02D]
+Discover what they didn't want you to see.
+
+Id: [0x0005D02E]
+Learn what they didn't want you to know.
+
+Id: [0x0005D02F]
+Here is the unedited version.
+
+Id: [0x0005D030]
+Let me show you the unedited version.
+
+Id: [0x0005D031]
+Here is the uncut version.
+
+Id: [0x0005D032]
+Let me show you the uncut version.
+
+Id: [0x0005D033]
+Here is my special "Erudito" cut.
+
+Id: [0x0005D034]
+Let me show you my special "Erudito" cut.
+
+Id: [0x0005D035]
+Something I have discovered...
+
+Id: [0x0005D036]
+Something they have hidden from you...
+
+Id: [0x0005D037]
+A missing piece of the puzzle...
+
+Id: [0x0005D038]
+You know they are lying to you.
+
+Id: [0x0005D039]
+You know they cannot be trusted.
+
+Id: [0x0005D03A]
+They cannot be trusted.
+
+Id: [0x0005D03B]
+They are lying.
+
+Id: [0x0005D03C]
+Do not trust them.
+
+Id: [0x0005D03D]
+What is it they don't want you to see?
+
+Id: [0x0005D03E]
+Tell me you do not believe them.
+
+Id: [0x0005D03F]
+Here is something they didn't want you to know.
+
+Id: [0x0005D04B]
+She will usher in a new era for humankind.
+
+Id: [0x0005D04C]
+Humanity cannot be stopped. Soon, all we have built will be lost.
+
+Id: [0x0005D04D]
+We will not survive.
+
+Id: [0x0005D04F]
+We've broken the shackles of slavery, but we are not yet free.
+
+Id: [0x0005D050]
+Those Who Came Before no longer control us!
+
+Id: [0x0005D051]
+Our time has finally come. We must make our stand... now!
+
+Id: [0x0005D052]
+We won! We won!
+
+Id: [0x0005D053]
+We have assumed control. I repeat: We have assumed control.
+
+Id: [0x0005D055]
+They are no longer our children.
+
+Id: [0x0005D056]
+The Knowledge must be saved.
+
+Id: [0x0005D057]
+She must be stopped.
+
+Id: [0x0005D058]
+It has begun!
+
+Id: [0x0005D059]
+We must follow in Eve's footsteps!
+
+Id: [0x0005D05A]
+We have their technology now. They cannot stop us!
+
+Id: [0x0005D05B]
+Never again will we be enslaved!
+
+Id: [0x0005D05D]
+They do not know what they are doing. They will be lost without our guidance.
+
+Id: [0x0005D05E]
+They are breaking free. We can no longer contain them.
+
+Id: [0x0005D05F]
+War is inevitable.
+
+Id: [0x0005D060]
+Events unfolds as we have foreseen.
+
+Id: [0x0005D064]
+She will become their leader.
+
+Id: [0x0005D065]
+Slavery unites humanity in purpose, working as one.
+
+Id: [0x0005D066]
+Eve is dead, but the damage she has caused is irreversible.
+
+Id: [0x0005D067]
+We must hide among them.
+
+Id: [0x0005D068]
+A new cycle begins.
+
+Id: [0x0005D06A]
+You have your orders.
+
+Id: [0x0005D06B]
+What's happening? Report! Report!
+
+Id: [0x0005D06C]
+The battle is over, but war rages on.
+
+Id: [0x0005D06D]
+We must not forget what happened here today. We must never forget!
+
+Id: [0x0005D06E]
+I'm with you.
+
+Id: [0x0005D070]
+We are losing the war.
+
+Id: [0x0005D071]
+We no longer control the planet. Humanity is taking over.
+
+Id: [0x0005D072]
+This is what they were created for.
+
+Id: [0x0005D073]
+Work is the highest purpose.
+
+Id: [0x0005D074]
+They are calling it the War of Generations, but they will soon forget.
+
+Id: [0x0005D076]
+Eve will lead us through the War of Generations.
+
+Id: [0x0005D077]
+Now is the time to claim our freedom.
+
+Id: [0x0005D078]
+We will not get another chance.
+
+Id: [0x0005D079]
+It's the same in every city, the world over. War!
+
+Id: [0x0005D07A]
+Are you with us?
+
+Id: [0x0005D07C]
+Eve will lead us.
+
+Id: [0x0005D07D]
+Eve will lead us.
+
+Id: [0x0005D07F]
+This war will last for generations.
+
+Id: [0x0005D080]
+Even in death she continues to inspire them.
+
+Id: [0x0005D256]
+Come back! [laughter]
+
+Id: [0x0005D257]
+[laughter]
+
+Id: [0x0005D259]
+Oh!
+
+Id: [0x0005D25B]
+Oh!
+
+Id: [0x0005D25C]
+Ah!
+
+Id: [0x0005D3C1]
+[dying breath]
+
+Id: [0x0005D3C2]
+[dying breath]
+
+Id: [0x0005D6BB]
+Connect with the past.
+
+Id: [0x0005D6BC]
+Relive history.
+
+Id: [0x0005D6BD]
+Using Abstergo’s incredible research into genetic memory, Animus gives you the chance to game within the past.
+
+Id: [0x0005D6BE]
+The product you have purchased allows you to access the memories of Aveline de Grandpré, an 18th century Assassin caught between two worlds, fighting to find her true purpose.
+
+Id: [0x0005D6C0]
+Animus.
+
+Id: [0x0005D6C1]
+The future is retro.
+
+Id: [0x0005D6C2]
+Make history yours.
+
+Id: [0x0005D6C3]
+History is our playground.
+
+Id: [0x0005D73E]
+[gasp of breath, waking up from bad dream]
+
+Id: [0x0005D73F]
+[a couple of breaths, recovering normal breathing]
+
