@@ -8,7 +8,7 @@ ac localization tools and texts
 
 # 2020.11.10更新
 英灵殿的forge文件结构有变化，需要使用quickbms解包，所需工具更新至工具文件夹内（使用ac-valhall脚本），即可解出.data文件。
-(```)
+```
 7799.data = 0-LocalizationPackage_Arabe_MTM.Localization_Package
 7800.data = 0-LocalizationPackage_Arabe_Subtitles_MTM.Localization_Package
 7801.data = 0-LocalizationPackage_Arabic.Localization_Package
@@ -73,7 +73,7 @@ ac localization tools and texts
 7860.data = 0-LocalizationPackage_Spanish(Spain)_MTM.Localization_Package
 7861.data = 0-LocalizationPackage_Spanish(Spain)_Subtitles_MTM.Localization_Package
 7862.data = 0-LocalizationPackage_Spanish_Subtitles.Localization_Package
-(```)
+```
 
 其余按之前步骤操作即可。
 
