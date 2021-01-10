@@ -1,14 +1,20 @@
 # 刺客信条字幕文本|assassin-s-creed-localization-texts
 ac localization tools and texts
 
-# 简易使用教程：
+# 简易使用教程|Quick Tutorial：
 ##### 1.使用Ubisoft_Forge_Tool_By_Delutto工具解包DataPC.forge，得到众多localization文件；
 ##### 2.使用Ubisoft_DATA_Tool_By_Delutto解包需要的localization文件；
 ##### 3.使用命令行工具以 aclocexport.exe 0-LocalizationPackage_English_Subtitles.Localization_Package的格式解包出txt文本即可。
 
-# 2020.11.10更新
+##### 1.OPEN DataPC.forge in Ubisoft_Forge_Tool_By_Delutto to extractlocalization files;
+##### 2.OPEN localization files in Ubisoft_DATA_Tool_By_Delutto；
+##### 3.CMD LIKE aclocexport.exe 0-LocalizationPackage_English_Subtitles.Localization_Package to get .txt files.
+
+# 2020.11.10更新|UPDATE
 英灵殿的forge文件结构有变化，需要使用quickbms解包，所需工具已更新至工具文件夹内（使用ac-valhalla脚本），即可解出.data文件。
+acv localization files can be extracted with quickbms,ac-valhalla script needed.
 ```
+LANGUAGE INDEX AS BELOW:
 7799.data = 0-LocalizationPackage_Arabe_MTM.Localization_Package
 7800.data = 0-LocalizationPackage_Arabe_Subtitles_MTM.Localization_Package
 7801.data = 0-LocalizationPackage_Arabic.Localization_Package
